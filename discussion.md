@@ -35,7 +35,7 @@ Reading assignments for discussion sessions are listed below:
 
 ---
 
-#### (Optional) Suggested Reading for Week 1
+### (Optional) Suggested Reading for Week 1
 * How to (seriously) read a scientific paper, on your own. [[Link]](http://www.sciencemag.org/careers/2016/03/how-seriously-read-scientific-paper)
 
 ---

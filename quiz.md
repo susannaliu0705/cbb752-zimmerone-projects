@@ -7,12 +7,11 @@ layout: page
 
 <ul>
 	<li>
-		Spring 2020: (TBD)
-		<a href="http://cbb752b19.gersteinlab.org/">Main Page</a>,
-        <a href="http://files.gersteinlab.org/public-docs/2019/12.05/cbb752b19_quiz_archive/cbb752b19_quiz1_wSoln.docx">Quiz 1 key</a>,
-        <a href="http://files.gersteinlab.org/public-docs/2020/04.07/cbb752b19_quiz2.docx">Quiz 2</a>,
-		<a href="http://files.gersteinlab.org/public-docs/2019/12.05/cbb752b19_quiz_archive/cbb752b19_hw1.pdf">HW1</a>,
-		<a href="http://files.gersteinlab.org/public-docs/2019/12.05/cbb752b19_quiz_archive/cbb752b19_hw2.pdf">HW2</a>
+		Spring 2020:
+		<a href="http://cbb752b20.gersteinlab.org/">Main Page</a>,
+        <a href="http://files.gersteinlab.org/public-docs/2020/11.23/cbb752b20_quiz1.pdf">Quiz 1 key</a>,
+		<a href="http://files.gersteinlab.org/public-docs/2020/11.23/cbb752b20_hw1.pdf">HW1</a>,
+		<a href="http://files.gersteinlab.org/public-docs/2020/11.23/cbb752b20_hw2.pdf">HW2</a>
 	</li>
     <li>
 		Spring 2019:
