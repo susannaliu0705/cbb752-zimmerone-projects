@@ -19,12 +19,13 @@ cbb752 (at) gersteinlab.org
 
 | Name | Abbr | Office | Email |
 | --- | --- | --- | --- |
-| Corey O'Hern	| CO | Mason Laboratory	| corey.ohern (at) yale.edu |
-| Steven Kleinstein	| SK | 300 George St	| steven.kleinstein (at) yale.edu |
-| Jesse Rinehart	| JR | West Campus	| jesse.rinehart (at) yale.edu |
-| Matthew Simon	| MDS | West Campus	| matthew.simon (at) yale.edu |
-| Kei Cheung	| KC | 300 George St	| kei.cheung (at) yale.edu |
-| Carl Zimmer	| CZ | 266 Whitney Ave	| carl.zimmer (at) yale.edu |
+| Corey O'Hern	     | CO | Mason Laboratory	| corey.ohern (at) yale.edu |
+| Jesse Rinehart	 | JR | West Campus	| jesse.rinehart (at) yale.edu |
+| Matthew Simon	     | MDS | West Campus	| matthew.simon (at) yale.edu |
+| Kei Cheung	     | KC | 300 George St	| kei.cheung (at) yale.edu |
+| Martin Renqiang Min| RM |	                | renqiang (at) gmail.com |
+| Dov Greenbaum      | DG |	                | dov.greenbaum (at) gmail.com |
+| Carl Zimmer	     | CZ | 266 Whitney Ave	| carl.zimmer (at) yale.edu |
 
 Consultation is available UPON REQUEST or according to times stipulated by the individual instructors. Prof. Gerstein's office office hours will usually be right after some the classes.
 
@@ -32,27 +33,27 @@ Consultation is available UPON REQUEST or according to times stipulated by the i
 
 | Name | Abbr | Office | Email |
 | --- | --- | --- | --- |
-| Hussein Mohsen	| HM | Bass 437	| hussein.mohsen (at) yale.edu |
-| Jiahao Gao	| JG | Bass 437	| jiahao.gao (at) yale.edu |
+| Jiahao Gao	| JG  | Bass 437	| jiahao.gao (at) yale.edu |
+| Tianxiao Li   | TXL | Bass 437	| tianxiao.li (at) yale.edu |
 
 ## General Course Policy
 
 ### First Meeting
-The first lecture will be held on Mon. Jan 13, 2020. Somewhat confusingly, Friday, January 17th has been declared an "academic Monday" due to Martin Luther King Jr. Day (01/20/2020), and so the course's **third** meeting will be on Friday, January 17th.
+The first lecture will be held on Mon. Feb 1st, 2021. 
 
-### Snow Days (general policy)
-We have built into the class schedule the potential for snow days. To avoid last minute uncertainty and confusion, we will not wait until Yale officially closes the university for snow (which only happens in the most extreme of blizzards). If the weather looks particularly problematic a few days before (e.g., on Sat. for a Mon. class), we will preemptively cancel via the class email list, which means it important for all to be on this list.
+<del>### Snow Days (general policy)
+We have built into the class schedule the potential for snow days. To avoid last minute uncertainty and confusion, we will not wait until Yale officially closes the university for snow (which only happens in the most extreme of blizzards). If the weather looks particularly problematic a few days before (e.g., on Sat. for a Mon. class), we will preemptively cancel via the class email list, which means it important for all to be on this list.</del>
 
 ### Grading Policy
 We expect that this year the weighting scheme will be to a first approximation:
 
 | Category	| % of Total Grade |
 |---|---|
-| Discussion Section | 30% |
-| Midterm Quiz       | 15% |
-| Homework 1         | 10% |
-| Homework 2         | 15% |
-| Final Project	     | 30% |
+| Quiz 1 |	15% |
+| Quiz 2 |	15% |
+| Discussion Section |	20% |
+| Homeworks	| 20% |
+| Final Project	| 30% |
 
 ### Relevant Yale College Regulations
 

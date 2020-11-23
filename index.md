@@ -16,11 +16,11 @@ This course aims to equip students with some of the concepts and skills relevant
 
 ### Lectures
 
-- MW 1:00 - 2:15 PM, Bass 305
+- MW 1:00 - 2:15 PM, virtual using Zoom
 
 ### Discussion Section
 
-- F 9:30-10:30 AM or F 1:00-2:00 PM, Bass 405
+- F 9:30-10:30 AM or F 1:00-2:00 PM, virtual using Zoom
 
 ## Different headings for this class (4 variants)
 
@@ -72,7 +72,8 @@ For references, please refer the previous [Quiz Archive](/quiz)
 - There will be equivalent four homework assignments (including assignment 0), particularly for MB&B and MCDB students without a programming background. The programming part will be replaced with assignments involving the use of web-based tools or essay questions.
 
 ## Pages from previous years
-- 2020 Spring is the 23rd time Bioinformatics has been taught at Yale. Pages for the 22 previous iterations of the class are available. Look at how things evolve!
+- 2021 Spring is the 24th time Bioinformatics has been taught at Yale. Pages for the 23 previous iterations of the class are available. Look at how things evolve!
+- [2020 Spring](http://cbb752b20.gersteinlab.org)
 - [2019 Spring](http://cbb752b19.gersteinlab.org)
 - [2018 Spring](http://cbb752b18.gersteinlab.org)
 - [2017 Spring](http://cbb752b17.gersteinlab.org)
@@ -87,5 +88,4 @@ For references, please refer the previous [Quiz Archive](/quiz)
 
 
 ## Class data dump
-- Syllabus and class info dump in single PDF file: [PDF v1](http://files.gersteinlab.org/public-docs/2020/01.06/CBB752b20_Syllabus_v1.pdf) or [PDF v2](http://files.gersteinlab.org/public-docs/2020/01.06/CBB752b20_Syllabus_v2.pdf) 
-- Class poster: [PDF](http://files.gersteinlab.org/public-docs/2020/01.06/CBB752_Poster_A4_2020.pdf)
+- Syllabus and class info dump in single PDF file: [PDF v1]() or [PDF v2]() **TBD**

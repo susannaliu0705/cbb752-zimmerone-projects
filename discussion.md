@@ -9,8 +9,8 @@ layout: page
 
 | Session | Time | Location | Note |
 | --- | --- | --- | --- |
-| Section 1 | 9:30-10:30 AM | BASS 405 | &nbsp; |
-| Section 2 | 1:00-2:00 PM | BASS 405 | Room Change: BASS 434 for 2/21 |
+| Section 1 | 9:30-10:30 AM | Zoom | &nbsp; |
+| Section 2 | 1:00-2:00 PM  | Zoom | &nbsp; |
 
 ### Format
 
@@ -35,12 +35,12 @@ Reading assignments for discussion sessions are listed below:
 
 ---
 
-#### (Optional) Suggested Reading for Week 1 (There will be a class instead of discussion session on 1/17/2020)
+#### (Optional) Suggested Reading for Week 1
 * How to (seriously) read a scientific paper, on your own. [[Link]](http://www.sciencemag.org/careers/2016/03/how-seriously-read-scientific-paper)
 
 ---
 
-### Session 1, 1/24, BASS 405 for both Sessions (First Discussion Sessions)
+### Session 1, 2/5, Zoom (First Discussion Sessions)
 
 #### Topic
 * Next-Gen Sequencing and database
@@ -51,7 +51,7 @@ Reading assignments for discussion sessions are listed below:
 
 ---
 
-### Session 2,	1/31, BASS 405 for both Sessions
+### Session 2, 2/12, Zoom
 
 #### Topic
 * Proteomics
@@ -62,7 +62,7 @@ Reading assignments for discussion sessions are listed below:
 
 ---
 
-### Session 3,	2/7, BASS 405 for both Sessions
+### Session 3, 2/19, Zoom
 
 #### Topic
 * Debate I
@@ -76,7 +76,7 @@ Reading assignments for discussion sessions are listed below:
 
 ---
 
-### Session 4,	2/14, BASS 405 for both Sessions
+### Session 4, 2/26, Zoom
 
 #### Topic
 * Help session on Quiz 1 - TFs prepare materials on SW alignments and Q&A session
@@ -88,7 +88,7 @@ Reading assignments for discussion sessions are listed below:
 
 ---
 
-### Session 5,	2/21, BASS 405 for Session 1, BASS 434 for Session 2 (Note Room Change)
+### Session 5, 3/5, Zoom
 
 #### Topic
 * Debate II - Phylogenetics
@@ -99,7 +99,7 @@ Reading assignments for discussion sessions are listed below:
 
 ---
 
-### Session 6,	2/28, BASS 405 for both Sessions
+### Session 6, 3/12, Zoom
 
 #### Topic
 Debate III - Cancer incidence
@@ -110,7 +110,7 @@ Debate III - Cancer incidence
 
 ---
 
-### Session 7, 3/6,	BASS 405 for both Sessions
+### Session 7, 3/19, Zoom
 
 #### Topic
 * Deep learning for genomics
@@ -121,11 +121,7 @@ Debate III - Cancer incidence
 
 ---
 
-### (spring recess)
-
----
-
-### Session 8,	3/27, Zoom meeting
+### Session 8, 3/26, Zoom
 
 #### Topic
 * Immune system modelling and dynamics
@@ -136,7 +132,7 @@ Debate III - Cancer incidence
 
 ---
 
-### Session 9, 4/3, Zoom meeting
+### Session 9, 4/2, Zoom
 
 #### Topic
 * Protein structure and biophysics
@@ -148,7 +144,7 @@ Debate III - Cancer incidence
 
 ---
 
-### Session 10, 4/17, Zoom meeting
+### Session 10, 4/9, Zoom
 
 #### Topic
 * Help session on HW 2 / final project
