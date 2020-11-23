@@ -55,6 +55,9 @@ We expect that this year the weighting scheme will be to a first approximation:
 | Homeworks	| 20% |
 | Final Project	| 30% |
 
+### Recording Policy
+We will follow the default FAS policy on recording where the instructor’s lectures will be recorded, and student contributions in seminars and sections will not be recorded.
+
 ### Relevant Yale College Regulations
 
 Students may have questions concerning end-of-term matters. Links to further information about these regulations can be found below:

@@ -66,10 +66,10 @@ Quizes will comprise simple questions that you should be able to answer from the
 For references, please refer the previous [Quiz Archive](/quiz)
 
 ### Programming Assignments (Req'd for CBB and CS grad. students)
-- There will be four homework assignments including assignment 0. We will try to promote the idea of reproducible research and using version control system, specifically GitHub, in facilitating the process of homework submission.
+- There will be two homework assignments. We will try to promote the idea of reproducible research and using version control system, specifically GitHub, in facilitating the process of homework submission.
 
 ### Non-programming Assignments
-- There will be equivalent four homework assignments (including assignment 0), particularly for MB&B and MCDB students without a programming background. The programming part will be replaced with assignments involving the use of web-based tools or essay questions.
+- There will be equivalent two homework assignments, particularly for MB&B and MCDB students without a programming background. The programming part will be replaced with assignments involving the use of web-based tools or essay questions.
 
 ## Pages from previous years
 - 2021 Spring is the 24th time Bioinformatics has been taught at Yale. Pages for the 23 previous iterations of the class are available. Look at how things evolve!
@@ -88,4 +88,5 @@ For references, please refer the previous [Quiz Archive](/quiz)
 
 
 ## Class data dump
-- Syllabus and class info dump in single PDF file: [PDF v1]() or [PDF v2]()
+- Syllabus and class info dump in single PDF file: [PDF v1](http://files.gersteinlab.org/public-docs/2020/11.23/cbb752b21_syllabus_v1.pdf) or [PDF v2](http://files.gersteinlab.org/public-docs/2020/11.23/cbb752b21_syllabus_v2.pdf)
+- Class poster: [pdf](http://files.gersteinlab.org/public-docs/2020/11.23/cbb752b21_poster_A4.pdf)
