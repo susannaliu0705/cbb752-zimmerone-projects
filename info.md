@@ -41,9 +41,6 @@ Consultation is available UPON REQUEST or according to times stipulated by the i
 ### First Meeting
 The first lecture will be held on Mon. Feb 1st, 2021. 
 
-<del>### Snow Days (general policy)
-We have built into the class schedule the potential for snow days. To avoid last minute uncertainty and confusion, we will not wait until Yale officially closes the university for snow (which only happens in the most extreme of blizzards). If the weather looks particularly problematic a few days before (e.g., on Sat. for a Mon. class), we will preemptively cancel via the class email list, which means it important for all to be on this list.</del>
-
 ### Grading Policy
 We expect that this year the weighting scheme will be to a first approximation:
 
