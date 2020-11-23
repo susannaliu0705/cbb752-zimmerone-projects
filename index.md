@@ -38,7 +38,7 @@ This course aims to equip students with some of the concepts and skills relevant
   - Each module consists of lectures, in-class tests, written problem sets, and a final, graduate level written project that is half the length of the full course's final project.
 
 - MB&B 452 / MCDB 452 / S&DS 352 - Undergrad.
-  - This undergraduate version of the course consists of lectures, in-class tests, discussion section, written problem sets, and a final (semi-computational section and a literature survey) project. The programming assignments from CB752 can be substituted for the written work by permission of instructor.
+  - This undergraduate version of the course consists of lectures, in-class tests, discussion section, written problem sets, and a final (semi-computational section and a literature survey) project. The programming assignments from CBB752 can be substituted for the written work by permission of instructor.
 
 - Auditing
   - This is allowed. We would strongly prefer if you would register for the class.
