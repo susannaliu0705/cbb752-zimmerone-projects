@@ -62,7 +62,7 @@ Reading assignments for discussion sessions are listed below:
 
 ---
 
-### Session 3, 2/19, Zoom
+### Session 3, 2/26, Zoom
 
 #### Topic
 * Debate I
@@ -76,7 +76,7 @@ Reading assignments for discussion sessions are listed below:
 
 ---
 
-### Session 4, 2/26, Zoom
+### Session 4, 3/5, Zoom
 
 #### Topic
 * Help session on Quiz 1 - TFs prepare materials on SW alignments and Q&A session
@@ -88,7 +88,7 @@ Reading assignments for discussion sessions are listed below:
 
 ---
 
-### Session 5, 3/5, Zoom
+### Session 5, 3/12, Zoom
 
 #### Topic
 * Debate II - Phylogenetics
@@ -99,7 +99,7 @@ Reading assignments for discussion sessions are listed below:
 
 ---
 
-### Session 6, 3/12, Zoom
+### Session 6, 3/19, Zoom
 
 #### Topic
 Debate III - Cancer incidence
@@ -110,7 +110,7 @@ Debate III - Cancer incidence
 
 ---
 
-### Session 7, 3/19, Zoom
+### Session 7, 4/2, Zoom
 
 #### Topic
 * Deep learning for genomics
@@ -121,7 +121,7 @@ Debate III - Cancer incidence
 
 ---
 
-### Session 8, 3/26, Zoom
+### Session 8, 4/9, Zoom
 
 #### Topic
 * Immune system modelling and dynamics
@@ -132,7 +132,7 @@ Debate III - Cancer incidence
 
 ---
 
-### Session 9, 4/2, Zoom
+### Session 9, 4/16, Zoom
 
 #### Topic
 * Protein structure and biophysics
@@ -144,7 +144,7 @@ Debate III - Cancer incidence
 
 ---
 
-### Session 10, 4/9, Zoom
+### Session 10, 4/23, Zoom
 
 #### Topic
 * Help session on HW 2 / final project
