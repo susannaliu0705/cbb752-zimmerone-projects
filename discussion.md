@@ -40,7 +40,7 @@ Reading assignments for discussion sessions are listed below:
 
 ---
 
-### Session 1, 2/5, Zoom (First Discussion Sessions)
+### Session 1, 2/12, Zoom (First Discussion Sessions)
 
 #### Topic
 * Next-Gen Sequencing and database
@@ -51,7 +51,7 @@ Reading assignments for discussion sessions are listed below:
 
 ---
 
-### Session 2, 2/12, Zoom
+### Session 2, 2/19, Zoom
 
 #### Topic
 * Proteomics
