@@ -15,7 +15,7 @@ This course aims to equip students with some of the concepts and skills relevant
 
 ### Lectures
 
-- MW 1:00 - 2:15 PM, virtual using Zoom (see Canvas for zoom links). All lectures will be recorded. Recordings will be available in Canvas Zoom section a few minutes after each lecture
+- MW 1:00 - 2:15 PM, virtual using Zoom (see Canvas for zoom links). All lectures will be recorded. Recordings will be available in Canvas a few minutes after each lecture
 
 ### Discussion Section
 
