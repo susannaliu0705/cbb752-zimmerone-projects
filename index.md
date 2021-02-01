@@ -11,12 +11,11 @@ This course aims to equip students with some of the concepts and skills relevant
 - Introduction
 - Module on "the Data" (Genomic, Proteomic & Structural Data), introducing the main data sources (their properties, where you access, &c). This module also includes discussion of databases and knowledge representation issues.
 - Module on Mining (Alignment & variant calling necessary for personal genomics; Basic multi-omics calculations; Supervised & unsupervised mining approaches towards multi-omic data; Networks)
-- Module on Cell Modeling
 - Module on Molecular Modeling
 
 ### Lectures
 
-- MW 1:00 - 2:15 PM, virtual using Zoom
+- MW 1:00 - 2:15 PM, virtual using Zoom. All lectures will be recorded. Recordings will be available in Canvas Zoom section a few minutes after each lecture
 
 ### Discussion Section
 
@@ -53,6 +52,11 @@ Students should have:
 
 These can be fulfilled by: MBB 200 and Mathematics 115 or permission of the instructor.
 
+### Class meterials
+
+There is no text book for this class. PPT slides will be available after the lectures.
+We recommend *Biochemistry* by Lubert Stryer for biochemistry prerequisite.
+
 ## Class Requirements
 
 ### Discussion Section / Readings
@@ -61,6 +65,7 @@ Papers will be assigned throughout the course. These papers will be presented an
 ### In-class tests: Quiz
 - There will be a quiz covering the 1st half of the course.
 - There will be a quiz covering the 2nd half of the course.
+
 Quizes will comprise simple questions that you should be able to answer from the lectures plus the main readings.
 
 For references, please refer the previous [Quiz Archive](/quiz)
