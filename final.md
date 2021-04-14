@@ -8,7 +8,7 @@ layout: page
 
 **Write-up DUE DATE**: May 12th (Wednesday) 2021, 11:59 PM EST. Submission in Canvas.
 
-Download the final project description [here](http://files.gersteinlab.org/public-docs/2021/04.14/cbb752b21_final.pdf).  
+Download the final project description [here](http://files2.gersteinlab.org/public-docs/2021/04.14/cbb752b21_final.pdf).  
 See emails from TFs for group assignment and details.
 
 
