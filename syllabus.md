@@ -187,7 +187,7 @@ layout: page
                 <td class="s2">M</td>
                 <td class="s2" dir="ltr">3/8</td>
                 <td class="s9" dir="ltr">MG</td>
-                <td class="s19">MINING 4 - Basic Multi-Omics + Supervised Mining</td>
+                <td class="s19">MINING 4 - Basic Multi-Omics + Supervised Mining #1</td>
                 <td class="s20" dir="ltr">Pack 6b, 7, 8a</td>
                 <td class="s12" dir="ltr">See below for MG Slides</td>
                 <td class="s8"></td>
@@ -211,7 +211,7 @@ layout: page
                 <td class="s2">M</td>
                 <td class="s2" dir="ltr">3/15</td>
                 <td class="s9" dir="ltr">MG</td>
-                <td class="s19">MINING 5 - Unsupervised Mining #1 (SVD &amp; Spectral Methods)</td>
+                <td class="s19">MINING 5 - Supervised Mining #1 + Unsupervised Mining #1</td>
                 <td class="s20" dir="ltr">Pack 8b-c, 9a-b</td>
                 <td class="s12" dir="ltr">See below for MG Slides</td>
                 <td class="s8"></td>
@@ -223,7 +223,7 @@ layout: page
                 <td class="s2">W</td>
                 <td class="s2" dir="ltr">3/17</td>
                 <td class="s9" dir="ltr">MG</td>
-                <td class="s19">MINING 6 - Unsupervised Mining #2 (Extensions &amp; Applications) &amp; Network Analysis</td>
+                <td class="s19">MINING 6 - Unsupervised Mining #2 + Network Analysis #1</td>
                 <td class="s20" dir="ltr">Pack 9c-e, 10a-b</td>
                 <td class="s12" dir="ltr">See below for MG Slides</td>
                 <td class="s8"></td>
@@ -260,7 +260,7 @@ layout: page
                 <td class="s2">M</td>
                 <td class="s2" dir="ltr">3/29</td>
                 <td class="s9" dir="ltr">MG+TF</td>
-                <td class="s19" dir="ltr">TF short lecture + MG network</td>
+                <td class="s19" dir="ltr">TF short lecture + Network Analysis #2</td>
                 <td class="s20" dir="ltr">Pack 10c-d</td>
                 <td class="s7" dir="ltr">
                     <a target="_blank" href="http://files2.gersteinlab.org/public-docs/2021/03.29/eQTL.pptx">eQTL [PPT]</a></td>
@@ -320,7 +320,7 @@ layout: page
                 <td class="s2">M</td>
                 <td class="s2" dir="ltr">4/12</td>
                 <td class="s9" dir="ltr">MG+TF</td>
-                <td class="s19" dir="ltr">TF short lecture</td>
+                <td class="s19" dir="ltr">TF short lecture + Guest Lecture</td>
                 <td class="s8"></td>
                 <td class="s7" dir="ltr">
                     <a target="_blank" href="http://files2.gersteinlab.org/public-docs/2021/04.12/textmining.pptx">Textmining [PPT]</a></td>
