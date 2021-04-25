@@ -211,7 +211,7 @@ layout: page
                 <td class="s2">M</td>
                 <td class="s2" dir="ltr">3/15</td>
                 <td class="s9" dir="ltr">MG</td>
-                <td class="s19">MINING 5 - Supervised Mining #1 + Unsupervised Mining #1</td>
+                <td class="s19">MINING 5 - Supervised Mining #2 + Unsupervised Mining #1</td>
                 <td class="s20" dir="ltr">Pack 8b-c, 9a-b</td>
                 <td class="s12" dir="ltr">See below for MG Slides</td>
                 <td class="s8"></td>
