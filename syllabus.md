@@ -6,8 +6,8 @@ layout: page
 ## Syllabus
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
 <link type="text/css" rel="stylesheet" href="resources/sheet.css">
-<style type="text/css">.ritz .waffle a { color: inherit; }.ritz .waffle .s10{background-color:#4a86e8;text-align:left;color:#000000;font-family:'docs-Helvetica Neue',Arial;font-size:10pt;vertical-align:middle;white-space:nowrap;overflow:hidden;direction:ltr;padding:0px 3px 0px 3px;}.ritz .waffle .s28{background-color:#ffffff;text-align:center;font-weight:bold;color:#000000;font-family:'Arial';font-size:10pt;vertical-align:middle;white-space:normal;overflow:hidden;direction:ltr;padding:0px 3px 0px 3px;}.ritz .waffle .s4{background-color:#ffffff;text-align:center;color:#000000;font-family:'Arial';font-size:10pt;vertical-align:middle;white-space:nowrap;overflow:hidden;direction:ltr;padding:0px 3px 0px 3px;}.ritz .waffle .s23{background-color:#efefef;text-align:center;color:#000000;font-family:'docs-Helvetica Neue',Arial;font-size:10pt;vertical-align:middle;white-space:nowrap;overflow:hidden;direction:ltr;padding:0px 3px 0px 3px;}.ritz .waffle .s3{background-color:#ffffff;text-align:left;color:#000000;font-family:'docs-Helvetica Neue',Arial;font-size:10pt;vertical-align:middle;white-space:nowrap;overflow:hidden;direction:ltr;padding:0px 3px 0px 3px;}.ritz .waffle .s31{background-color:#4a86e8;text-align:left;color:#000000;font-family:'docs-docs-Helvetica Neue',Arial;font-size:10pt;vertical-align:middle;white-space:normal;overflow:hidden;direction:ltr;padding:0px 3px 0px 3px;}.ritz .waffle .s22{background-color:#93c47d;text-align:left;color:#000000;font-family:'docs-Helvetica Neue',Arial;font-size:10pt;vertical-align:middle;white-space:normal;overflow:hidden;direction:ltr;padding:0px 3px 0px 3px;}.ritz .waffle .s1{background-color:#ffffff;text-align:center;color:#000000;font-family:'docs-Helvetica Neue',Arial;font-size:10pt;vertical-align:middle;white-space:nowrap;overflow:hidden;direction:ltr;padding:0px 3px 0px 3px;}.ritz .waffle .s18{background-color:#e06666;text-align:left;color:#000000;font-family:'docs-Helvetica Neue',Arial;font-size:10pt;vertical-align:middle;white-space:nowrap;overflow:hidden;direction:ltr;padding:0px 3px 0px 3px;}.ritz .waffle .s12{background-color:#ffffff;text-align:center;color:#000000;font-family:'Arial';font-size:10pt;vertical-align:middle;white-space:normal;overflow:hidden;word-wrap:break-word;direction:ltr;padding:0px 3px 0px 3px;}.ritz .waffle .s13{background-color:#ffd966;text-align:center;color:#000000;font-family:'docs-Helvetica Neue',Arial;font-size:10pt;vertical-align:middle;white-space:nowrap;overflow:hidden;direction:ltr;padding:0px 3px 0px 3px;}.ritz .waffle .s30{background-color:#ffffff;text-align:center;text-decoration:underline;-webkit-text-decoration-skip:none;text-decoration-skip-ink:none;color:#1155cc;font-family:'docs-Helvetica Neue',Arial;font-size:10pt;vertical-align:middle;white-space:nowrap;overflow:hidden;direction:ltr;padding:0px 3px 0px 3px;}.ritz .waffle .s14{background-color:#ffd966;text-align:left;color:#000000;font-family:'docs-Helvetica Neue',Arial;font-size:10pt;vertical-align:middle;white-space:nowrap;overflow:hidden;direction:ltr;padding:0px 3px 0px 3px;}.ritz .waffle .s7{background-color:#ffffff;text-align:center;text-decoration:underline;-webkit-text-decoration-skip:none;text-decoration-skip-ink:none;color:#1155cc;font-family:'Arial';font-size:10pt;vertical-align:middle;white-space:normal;overflow:hidden;direction:ltr;padding:0px 3px 0px 3px;}.ritz .waffle .s9{background-color:#4a86e8;text-align:center;color:#000000;font-family:'docs-Helvetica Neue',Arial;font-size:10pt;vertical-align:middle;white-space:nowrap;overflow:hidden;direction:ltr;padding:0px 3px 0px 3px;}.ritz .waffle .s11{background-color:#ffffff;text-align:center;font-weight:bold;color:#000000;font-family:'docs-Helvetica Neue',Arial;font-size:10pt;vertical-align:middle;white-space:nowrap;overflow:hidden;direction:ltr;padding:0px 3px 0px 3px;}.ritz .waffle .s5{background-color:#1c4587;text-align:center;font-weight:bold;color:#ffffff;font-family:'docs-Helvetica Neue',Arial;font-size:10pt;vertical-align:middle;white-space:nowrap;overflow:hidden;direction:ltr;padding:0px 3px 0px 3px;}.ritz .waffle .s27{background-color:#1c4587;text-align:center;font-weight:bold;color:#ffffff;font-family:'Arial';font-size:10pt;vertical-align:middle;white-space:normal;overflow:hidden;direction:ltr;padding:0px 3px 0px 3px;}.ritz .waffle .s24{background-color:#efefef;text-align:left;color:#000000;font-family:'docs-Helvetica Neue',Arial;font-size:10pt;vertical-align:middle;white-space:normal;overflow:hidden;direction:ltr;padding:0px 3px 0px 3px;}.ritz .waffle .s33{background-color:#4a86e8;text-align:left;color:#000000;font-family:'Arial';font-size:10pt;vertical-align:middle;white-space:normal;overflow:hidden;direction:ltr;padding:0px 3px 0px 3px;}.ritz .waffle .s21{background-color:#93c47d;text-align:center;color:#000000;font-family:'docs-Helvetica Neue',Arial;font-size:10pt;vertical-align:middle;white-space:nowrap;overflow:hidden;direction:ltr;padding:0px 3px 0px 3px;}.ritz .waffle .s8{background-color:#ffffff;text-align:center;color:#000000;font-family:'Arial';font-size:10pt;vertical-align:middle;white-space:normal;overflow:hidden;direction:ltr;padding:0px 3px 0px 3px;}.ritz .waffle .s25{background-color:#b4a7d6;text-align:center;color:#000000;font-family:'docs-Helvetica Neue',Arial;font-size:10pt;vertical-align:middle;white-space:nowrap;overflow:hidden;direction:ltr;padding:0px 3px 0px 3px;}.ritz .waffle .s17{background-color:#e06666;text-align:center;color:#000000;font-family:'docs-Helvetica Neue',Arial;font-size:10pt;vertical-align:middle;white-space:nowrap;overflow:hidden;direction:ltr;padding:0px 3px 0px 3px;}.ritz .waffle .s19{background-color:#4a86e8;text-align:left;color:#000000;font-family:'docs-Helvetica Neue',Arial;font-size:10pt;vertical-align:middle;white-space:normal;overflow:hidden;direction:ltr;padding:0px 3px 0px 3px;}.ritz .waffle .s6{background-color:#ffffff;text-align:center;font-weight:bold;color:#ffffff;font-family:'docs-Helvetica Neue',Arial;font-size:10pt;vertical-align:middle;white-space:nowrap;overflow:hidden;direction:ltr;padding:0px 3px 0px 3px;}.ritz .waffle .s26{background-color:#b4a7d6;text-align:left;color:#000000;font-family:'docs-Helvetica Neue',Arial;font-size:10pt;vertical-align:middle;white-space:normal;overflow:hidden;direction:ltr;padding:0px 3px 0px 3px;}.ritz .waffle .s16{background-color:#f6b26b;text-align:left;color:#000000;font-family:'docs-Helvetica Neue',Arial;font-size:10pt;vertical-align:middle;white-space:nowrap;overflow:hidden;direction:ltr;padding:0px 3px 0px 3px;}.ritz .waffle .s0{background-color:#000000;text-align:center;font-weight:bold;color:#ffffff;font-family:'docs-Helvetica Neue',Arial;font-size:10pt;vertical-align:middle;white-space:nowrap;overflow:hidden;direction:ltr;padding:0px 3px 0px 3px;}.ritz .waffle .s20{background-color:#ffffff;text-align:center;font-weight:bold;color:#000000;font-family:'Arial';font-size:10pt;vertical-align:middle;white-space:nowrap;overflow:hidden;direction:ltr;padding:0px 3px 0px 3px;}.ritz .waffle .s2{background-color:#ffffff;text-align:center;color:#000000;font-family:'docs-Helvetica
-    Neue',Arial;font-size:10pt;vertical-align:middle;white-space:normal;overflow:hidden;word-wrap:break-word;direction:ltr;padding:0px 3px 0px 3px;}.ritz .waffle .s32{background-color:#ffffff;text-align:center;text-decoration:underline;-webkit-text-decoration-skip:none;text-decoration-skip-ink:none;color:#1155cc;font-family:'Arial';font-size:10pt;vertical-align:middle;white-space:nowrap;overflow:hidden;direction:ltr;padding:0px 3px 0px 3px;}.ritz .waffle .s15{background-color:#f6b26b;text-align:center;color:#000000;font-family:'docs-Helvetica Neue',Arial;font-size:10pt;vertical-align:middle;white-space:nowrap;overflow:hidden;direction:ltr;padding:0px 3px 0px 3px;}.ritz .waffle .s29{background-color:#ffffff;text-align:center;font-weight:bold;color:#000000;font-family:'docs-Helvetica Neue',Arial;font-size:10pt;vertical-align:middle;white-space:normal;overflow:hidden;direction:ltr;padding:0px 3px 0px 3px;}</style>
+<style type="text/css">.ritz .waffle a { color: inherit; }.ritz .waffle .s10{background-color:#4a86e8;text-align:left;color:#000000;font-family:'docs-Helvetica Neue',Arial;font-size:10pt;vertical-align:middle;white-space:nowrap;overflow:hidden;direction:ltr;padding:0px 3px 0px 3px;}.ritz .waffle .s28{background-color:#ffffff;text-align:center;font-weight:bold;color:#000000;font-family:'Arial';font-size:10pt;vertical-align:middle;white-space:normal;overflow:hidden;direction:ltr;padding:0px 3px 0px 3px;}.ritz .waffle .s4{background-color:#ffffff;text-align:center;color:#000000;font-family:'Arial';font-size:10pt;vertical-align:middle;white-space:nowrap;overflow:hidden;direction:ltr;padding:0px 3px 0px 3px;}.ritz .waffle .s23{background-color:#efefef;text-align:center;color:#000000;font-family:'docs-Helvetica Neue',Arial;font-size:10pt;vertical-align:middle;white-space:nowrap;overflow:hidden;direction:ltr;padding:0px 3px 0px 3px;}.ritz .waffle .s3{background-color:#ffffff;text-align:left;color:#000000;font-family:'docs-Helvetica Neue',Arial;font-size:10pt;vertical-align:middle;white-space:nowrap;overflow:hidden;direction:ltr;padding:0px 3px 0px 3px;}.ritz .waffle .s30{background-color:#4a86e8;text-align:left;color:#000000;font-family:'docs-docs-Helvetica Neue',Arial;font-size:10pt;vertical-align:middle;white-space:normal;overflow:hidden;direction:ltr;padding:0px 3px 0px 3px;}.ritz .waffle .s22{background-color:#93c47d;text-align:left;color:#000000;font-family:'docs-Helvetica Neue',Arial;font-size:10pt;vertical-align:middle;white-space:normal;overflow:hidden;direction:ltr;padding:0px 3px 0px 3px;}.ritz .waffle .s1{background-color:#ffffff;text-align:center;color:#000000;font-family:'docs-Helvetica Neue',Arial;font-size:10pt;vertical-align:middle;white-space:nowrap;overflow:hidden;direction:ltr;padding:0px 3px 0px 3px;}.ritz .waffle .s18{background-color:#e06666;text-align:left;color:#000000;font-family:'docs-Helvetica Neue',Arial;font-size:10pt;vertical-align:middle;white-space:nowrap;overflow:hidden;direction:ltr;padding:0px 3px 0px 3px;}.ritz .waffle .s12{background-color:#ffffff;text-align:center;color:#000000;font-family:'Arial';font-size:10pt;vertical-align:middle;white-space:normal;overflow:hidden;word-wrap:break-word;direction:ltr;padding:0px 3px 0px 3px;}.ritz .waffle .s13{background-color:#ffd966;text-align:center;color:#000000;font-family:'docs-Helvetica Neue',Arial;font-size:10pt;vertical-align:middle;white-space:nowrap;overflow:hidden;direction:ltr;padding:0px 3px 0px 3px;}.ritz .waffle .s29{background-color:#ffffff;text-align:center;text-decoration:underline;-webkit-text-decoration-skip:none;text-decoration-skip-ink:none;color:#1155cc;font-family:'docs-Helvetica Neue',Arial;font-size:10pt;vertical-align:middle;white-space:nowrap;overflow:hidden;direction:ltr;padding:0px 3px 0px 3px;}.ritz .waffle .s14{background-color:#ffd966;text-align:left;color:#000000;font-family:'docs-Helvetica Neue',Arial;font-size:10pt;vertical-align:middle;white-space:nowrap;overflow:hidden;direction:ltr;padding:0px 3px 0px 3px;}.ritz .waffle .s7{background-color:#ffffff;text-align:center;text-decoration:underline;-webkit-text-decoration-skip:none;text-decoration-skip-ink:none;color:#1155cc;font-family:'Arial';font-size:10pt;vertical-align:middle;white-space:normal;overflow:hidden;direction:ltr;padding:0px 3px 0px 3px;}.ritz .waffle .s9{background-color:#4a86e8;text-align:center;color:#000000;font-family:'docs-Helvetica Neue',Arial;font-size:10pt;vertical-align:middle;white-space:nowrap;overflow:hidden;direction:ltr;padding:0px 3px 0px 3px;}.ritz .waffle .s11{background-color:#ffffff;text-align:center;font-weight:bold;color:#000000;font-family:'docs-Helvetica Neue',Arial;font-size:10pt;vertical-align:middle;white-space:nowrap;overflow:hidden;direction:ltr;padding:0px 3px 0px 3px;}.ritz .waffle .s5{background-color:#1c4587;text-align:center;font-weight:bold;color:#ffffff;font-family:'docs-Helvetica Neue',Arial;font-size:10pt;vertical-align:middle;white-space:nowrap;overflow:hidden;direction:ltr;padding:0px 3px 0px 3px;}.ritz .waffle .s27{background-color:#1c4587;text-align:center;font-weight:bold;color:#ffffff;font-family:'Arial';font-size:10pt;vertical-align:middle;white-space:normal;overflow:hidden;direction:ltr;padding:0px 3px 0px 3px;}.ritz .waffle .s24{background-color:#efefef;text-align:left;color:#000000;font-family:'docs-Helvetica Neue',Arial;font-size:10pt;vertical-align:middle;white-space:normal;overflow:hidden;direction:ltr;padding:0px 3px 0px 3px;}.ritz .waffle .s32{background-color:#4a86e8;text-align:left;color:#000000;font-family:'Arial';font-size:10pt;vertical-align:middle;white-space:normal;overflow:hidden;direction:ltr;padding:0px 3px 0px 3px;}.ritz .waffle .s21{background-color:#93c47d;text-align:center;color:#000000;font-family:'docs-Helvetica Neue',Arial;font-size:10pt;vertical-align:middle;white-space:nowrap;overflow:hidden;direction:ltr;padding:0px 3px 0px 3px;}.ritz .waffle .s8{background-color:#ffffff;text-align:center;color:#000000;font-family:'Arial';font-size:10pt;vertical-align:middle;white-space:normal;overflow:hidden;direction:ltr;padding:0px 3px 0px 3px;}.ritz .waffle .s25{background-color:#b4a7d6;text-align:center;color:#000000;font-family:'docs-Helvetica Neue',Arial;font-size:10pt;vertical-align:middle;white-space:nowrap;overflow:hidden;direction:ltr;padding:0px 3px 0px 3px;}.ritz .waffle .s17{background-color:#e06666;text-align:center;color:#000000;font-family:'docs-Helvetica Neue',Arial;font-size:10pt;vertical-align:middle;white-space:nowrap;overflow:hidden;direction:ltr;padding:0px 3px 0px 3px;}.ritz .waffle .s19{background-color:#4a86e8;text-align:left;color:#000000;font-family:'docs-Helvetica Neue',Arial;font-size:10pt;vertical-align:middle;white-space:normal;overflow:hidden;direction:ltr;padding:0px 3px 0px 3px;}.ritz .waffle .s6{background-color:#ffffff;text-align:center;font-weight:bold;color:#ffffff;font-family:'docs-Helvetica Neue',Arial;font-size:10pt;vertical-align:middle;white-space:nowrap;overflow:hidden;direction:ltr;padding:0px 3px 0px 3px;}.ritz .waffle .s26{background-color:#b4a7d6;text-align:left;color:#000000;font-family:'docs-Helvetica Neue',Arial;font-size:10pt;vertical-align:middle;white-space:normal;overflow:hidden;direction:ltr;padding:0px 3px 0px 3px;}.ritz .waffle .s16{background-color:#f6b26b;text-align:left;color:#000000;font-family:'docs-Helvetica Neue',Arial;font-size:10pt;vertical-align:middle;white-space:nowrap;overflow:hidden;direction:ltr;padding:0px 3px 0px 3px;}.ritz .waffle .s0{background-color:#000000;text-align:center;font-weight:bold;color:#ffffff;font-family:'docs-Helvetica Neue',Arial;font-size:10pt;vertical-align:middle;white-space:nowrap;overflow:hidden;direction:ltr;padding:0px 3px 0px 3px;}.ritz .waffle .s20{background-color:#ffffff;text-align:center;font-weight:bold;color:#000000;font-family:'Arial';font-size:10pt;vertical-align:middle;white-space:nowrap;overflow:hidden;direction:ltr;padding:0px 3px 0px 3px;}.ritz .waffle .s2{background-color:#ffffff;text-align:center;color:#000000;font-family:'docs-Helvetica
+    Neue',Arial;font-size:10pt;vertical-align:middle;white-space:normal;overflow:hidden;word-wrap:break-word;direction:ltr;padding:0px 3px 0px 3px;}.ritz .waffle .s31{background-color:#ffffff;text-align:center;text-decoration:underline;-webkit-text-decoration-skip:none;text-decoration-skip-ink:none;color:#1155cc;font-family:'Arial';font-size:10pt;vertical-align:middle;white-space:nowrap;overflow:hidden;direction:ltr;padding:0px 3px 0px 3px;}.ritz .waffle .s15{background-color:#f6b26b;text-align:center;color:#000000;font-family:'docs-Helvetica Neue',Arial;font-size:10pt;vertical-align:middle;white-space:nowrap;overflow:hidden;direction:ltr;padding:0px 3px 0px 3px;}</style>
 <div class="ritz grid-container" dir="ltr">
     <table class="waffle" cellspacing="0" cellpadding="0">
         <thead>
@@ -487,11 +487,11 @@ layout: page
                 <td class="s12"></td>
                 <td class="s12"></td>
                 <td class="s12"></td>
-                <td class="s29" dir="ltr">1</td>
+                <td class="s28" dir="ltr">1</td>
                 <td class="s19" dir="ltr">Introduction to Biomedical Data Science</td>
-                <td class="s30" dir="ltr">
+                <td class="s29" dir="ltr">
                     <a target="_blank" href="http://files2.gersteinlab.org/public-docs/2021/02.21/cbb752-MG-spr21-01-biomed-datasci-intro.pdf">Pack 1</a></td>
-                <td class="s30" dir="ltr">
+                <td class="s29" dir="ltr">
                     <a target="_blank" href="http://files2.gersteinlab.org/public-docs/2021/02.21/cbb752-MG-spr21-01-biomed-datasci-intro.ppt">Pack 1</a></td>
                 <td class="s12"></td>
             </tr>
@@ -501,11 +501,11 @@ layout: page
                 <td class="s12"></td>
                 <td class="s12"></td>
                 <td class="s12"></td>
-                <td class="s29" dir="ltr">2</td>
-                <td class="s31" dir="ltr">Introduction to Personal Genomes</td>
-                <td class="s30" dir="ltr">
+                <td class="s28" dir="ltr">2</td>
+                <td class="s30" dir="ltr">Introduction to Personal Genomes</td>
+                <td class="s29" dir="ltr">
                     <a target="_blank" href="http://files2.gersteinlab.org/public-docs/2021/03.05/cbb752-MG-spr21-02-personalgenomes-intro.pdf">Pack 2</a></td>
-                <td class="s30" dir="ltr">
+                <td class="s29" dir="ltr">
                     <a target="_blank" href="http://files2.gersteinlab.org/public-docs/2021/03.05/cbb752-MG-spr21-02-personalgenomes-intro.pptx">Pack 2</a></td>
                 <td class="s12"></td>
             </tr>
@@ -515,11 +515,11 @@ layout: page
                 <td class="s12"></td>
                 <td class="s12"></td>
                 <td class="s12"></td>
-                <td class="s29" dir="ltr">3</td>
+                <td class="s28" dir="ltr">3</td>
                 <td class="s19" dir="ltr">Sequence Comparison</td>
-                <td class="s32" dir="ltr">
+                <td class="s31" dir="ltr">
                     <a target="_blank" href="http://files2.gersteinlab.org/public-docs/2021/03.05/cbb752-MG-spr21-03-seqcmp.pdf">Pack 3</a></td>
-                <td class="s30" dir="ltr">
+                <td class="s29" dir="ltr">
                     <a target="_blank" href="http://files2.gersteinlab.org/public-docs/2021/03.05/cbb752-MG-spr21-03-seqcmp.ppt">Pack 3</a></td>
                 <td class="s12"></td>
             </tr>
@@ -529,11 +529,11 @@ layout: page
                 <td class="s12"></td>
                 <td class="s12"></td>
                 <td class="s12"></td>
-                <td class="s29" dir="ltr">4</td>
+                <td class="s28" dir="ltr">4</td>
                 <td class="s19" dir="ltr">Multiple Sequence Comparison</td>
-                <td class="s30" dir="ltr">
+                <td class="s29" dir="ltr">
                     <a target="_blank" href="http://files2.gersteinlab.org/public-docs/2021/03.05/cbb752-MG-spr21-04-multiseq.pdf">Pack 4</a></td>
-                <td class="s30" dir="ltr">
+                <td class="s29" dir="ltr">
                     <a target="_blank" href="http://files2.gersteinlab.org/public-docs/2021/03.05/cbb752-MG-spr21-04-multiseq.ppt">Pack 4</a></td>
                 <td class="s12"></td>
             </tr>
@@ -544,10 +544,10 @@ layout: page
                 <td class="s12"></td>
                 <td class="s12"></td>
                 <td class="s28" dir="ltr">5</td>
-                <td class="s33" dir="ltr">Fast Alignment</td>
-                <td class="s30" dir="ltr">
+                <td class="s32" dir="ltr">Fast Alignment</td>
+                <td class="s29" dir="ltr">
                     <a target="_blank" href="http://files2.gersteinlab.org/public-docs/2021/03.05/cbb752-MG-spr21-05-fastalign.pdf">Pack 5</a></td>
-                <td class="s30" dir="ltr">
+                <td class="s29" dir="ltr">
                     <a target="_blank" href="http://files2.gersteinlab.org/public-docs/2021/03.05/cbb752-MG-spr21-05-fastalign.ppt">Pack 5</a></td>
                 <td class="s12"></td>
             </tr>
@@ -558,10 +558,10 @@ layout: page
                 <td class="s12"></td>
                 <td class="s12"></td>
                 <td class="s28" dir="ltr">6a</td>
-                <td class="s33" dir="ltr">Variant Identification, Focusing on SVs</td>
-                <td class="s30" dir="ltr">
+                <td class="s32" dir="ltr">Variant Identification, Focusing on SVs</td>
+                <td class="s29" dir="ltr">
                     <a target="_blank" href="http://files2.gersteinlab.org/public-docs/2021/03.05/cbb752-MG-spr21-06-SNVs-SVs.pdf">Pack 6</a></td>
-                <td class="s30" dir="ltr">
+                <td class="s29" dir="ltr">
                     <a target="_blank" href="http://files2.gersteinlab.org/public-docs/2021/03.05/cbb752-MG-spr21-06-SNVs-SVs.pptx">Pack 6</a></td>
                 <td class="s12"></td>
             </tr>
@@ -572,10 +572,10 @@ layout: page
                 <td class="s12"></td>
                 <td class="s12"></td>
                 <td class="s28" dir="ltr">6b</td>
-                <td class="s33" dir="ltr">1000 Genome + PCAWG summary</td>
-                <td class="s30" dir="ltr">
+                <td class="s32" dir="ltr">1000 Genome + PCAWG summary</td>
+                <td class="s29" dir="ltr">
                     <a target="_blank" href="http://files2.gersteinlab.org/public-docs/2021/04.25/cbb752-mg-spr21-06b-1000G-PCAWG.pdf">Pack 6b</a></td>
-                <td class="s30" dir="ltr">
+                <td class="s29" dir="ltr">
                     <a target="_blank" href="http://files2.gersteinlab.org/public-docs/2021/04.25/cbb752-mg-spr21-06b-1000G-PCAWG.pptx">Pack 6b</a></td>
                 <td class="s12"></td>
             </tr>
@@ -586,10 +586,10 @@ layout: page
                 <td class="s12"></td>
                 <td class="s12"></td>
                 <td class="s28" dir="ltr">7</td>
-                <td class="s33" dir="ltr">Basic Multi-omics (pipeline processing)</td>
-                <td class="s30" dir="ltr">
+                <td class="s32" dir="ltr">Basic Multi-omics (pipeline processing)</td>
+                <td class="s29" dir="ltr">
                     <a target="_blank" href="http://files2.gersteinlab.org/public-docs/2021/04.25/cbb752-mg-spr21-07-multi-omics.pdf">Pack 7</a></td>
-                <td class="s30" dir="ltr">
+                <td class="s29" dir="ltr">
                     <a target="_blank" href="http://files2.gersteinlab.org/public-docs/2021/04.25/cbb752-mg-spr21-07-multi-omics.pptx">Pack 7</a></td>
                 <td class="s12"></td>
             </tr>
@@ -600,10 +600,10 @@ layout: page
                 <td class="s12"></td>
                 <td class="s12"></td>
                 <td class="s28" dir="ltr">8a</td>
-                <td class="s33" dir="ltr">Supervised Data Mining - Decision Trees</td>
-                <td class="s30" dir="ltr">
+                <td class="s32" dir="ltr">Supervised Data Mining - Decision Trees</td>
+                <td class="s29" dir="ltr">
                     <a target="_blank" href="http://files2.gersteinlab.org/public-docs/2021/04.25/cbb752-mg-spr21-08a-datamining-supervised-decisiontrees.pdf">Pack 8a</a></td>
-                <td class="s30" dir="ltr">
+                <td class="s29" dir="ltr">
                     <a target="_blank" href="http://files2.gersteinlab.org/public-docs/2021/04.25/cbb752-mg-spr21-08a-datamining-supervised-decisiontrees.ppt">Pack 8a</a></td>
                 <td class="s12"></td>
             </tr>
@@ -614,10 +614,10 @@ layout: page
                 <td class="s12"></td>
                 <td class="s12"></td>
                 <td class="s28" dir="ltr">8b</td>
-                <td class="s33" dir="ltr">Supervised Data Mining - ROC &amp; Cross-validation</td>
-                <td class="s30" dir="ltr">
+                <td class="s32" dir="ltr">Supervised Data Mining - ROC &amp; Cross-validation</td>
+                <td class="s29" dir="ltr">
                     <a target="_blank" href="http://files2.gersteinlab.org/public-docs/2021/04.25/cbb752-mg-spr21-08b-datamining-supervised-ROCs-Cross-validation.pdf">Pack 8b</a></td>
-                <td class="s30" dir="ltr">
+                <td class="s29" dir="ltr">
                     <a target="_blank" href="http://files2.gersteinlab.org/public-docs/2021/04.25/cbb752-mg-spr21-08b-datamining-supervised-ROCs-Cross-validation.ppt">Pack 8b</a></td>
                 <td class="s12"></td>
             </tr>
@@ -628,10 +628,10 @@ layout: page
                 <td class="s12"></td>
                 <td class="s12"></td>
                 <td class="s28" dir="ltr">8c</td>
-                <td class="s33" dir="ltr">Supervised Data Mining - SVMs</td>
-                <td class="s30" dir="ltr">
+                <td class="s32" dir="ltr">Supervised Data Mining - SVMs</td>
+                <td class="s29" dir="ltr">
                     <a target="_blank" href="http://files2.gersteinlab.org/public-docs/2021/04.25/cbb752-mg-spr21-08c-datamining-supervised-SVMs.pdf">Pack 8c</a></td>
-                <td class="s30" dir="ltr">
+                <td class="s29" dir="ltr">
                     <a target="_blank" href="http://files2.gersteinlab.org/public-docs/2021/04.25/cbb752-mg-spr21-08c-datamining-supervised-SVMs.ppt">Pack 8c</a></td>
                 <td class="s12"></td>
             </tr>
@@ -642,10 +642,10 @@ layout: page
                 <td class="s12"></td>
                 <td class="s12"></td>
                 <td class="s28" dir="ltr">9a</td>
-                <td class="s33" dir="ltr">Unsupervised Data Mining - Clustering</td>
-                <td class="s30" dir="ltr">
+                <td class="s32" dir="ltr">Unsupervised Data Mining - Clustering</td>
+                <td class="s29" dir="ltr">
                     <a target="_blank" href="http://files2.gersteinlab.org/public-docs/2021/04.25/cbb752-mg-spr21-09a-datamining-unsupervised--clustering.pdf">Pack 9a</a></td>
-                <td class="s30" dir="ltr">
+                <td class="s29" dir="ltr">
                     <a target="_blank" href="http://files2.gersteinlab.org/public-docs/2021/04.25/cbb752-mg-spr21-09a-datamining-unsupervised--clustering.pptx">Pack 9a</a></td>
                 <td class="s12"></td>
             </tr>
@@ -656,10 +656,10 @@ layout: page
                 <td class="s12"></td>
                 <td class="s12"></td>
                 <td class="s28" dir="ltr">9b</td>
-                <td class="s33" dir="ltr">Unsupervised Data Mining - Community Detection</td>
-                <td class="s30" dir="ltr">
+                <td class="s32" dir="ltr">Unsupervised Data Mining - Community Detection</td>
+                <td class="s29" dir="ltr">
                     <a target="_blank" href="http://files2.gersteinlab.org/public-docs/2021/04.25/cbb752-mg-spr21-09b-datamining-unsupervised--community-detection.pdf">Pack 9b</a></td>
-                <td class="s30" dir="ltr">
+                <td class="s29" dir="ltr">
                     <a target="_blank" href="http://files2.gersteinlab.org/public-docs/2021/04.25/cbb752-mg-spr21-09b-datamining-unsupervised--community-detection.pptx">Pack 9b</a></td>
                 <td class="s12"></td>
             </tr>
@@ -670,10 +670,10 @@ layout: page
                 <td class="s12"></td>
                 <td class="s12"></td>
                 <td class="s28" dir="ltr">9c</td>
-                <td class="s33" dir="ltr">Unsupervised Data Mining - SVD</td>
-                <td class="s30" dir="ltr">
+                <td class="s32" dir="ltr">Unsupervised Data Mining - SVD</td>
+                <td class="s29" dir="ltr">
                     <a target="_blank" href="http://files2.gersteinlab.org/public-docs/2021/04.25/cbb752-mg-spr21-09c-datamining-unsupervised--svd.pdf">Pack 9c</a></td>
-                <td class="s30" dir="ltr">
+                <td class="s29" dir="ltr">
                     <a target="_blank" href="http://files2.gersteinlab.org/public-docs/2021/04.25/cbb752-mg-spr21-09c-datamining-unsupervised--svd.pptx">Pack 9c</a></td>
                 <td class="s12"></td>
             </tr>
@@ -684,10 +684,10 @@ layout: page
                 <td class="s12"></td>
                 <td class="s12"></td>
                 <td class="s28" dir="ltr">9d</td>
-                <td class="s33" dir="ltr">Unsupervised Data Mining - RCA &amp; CCA</td>
-                <td class="s30" dir="ltr">
+                <td class="s32" dir="ltr">Unsupervised Data Mining - RCA &amp; CCA</td>
+                <td class="s29" dir="ltr">
                     <a target="_blank" href="http://files2.gersteinlab.org/public-docs/2021/04.25/cbb752-mg-spr21-09d-datamining-unsupervised--rca-cca.pdf">Pack 9d</a></td>
-                <td class="s30" dir="ltr">
+                <td class="s29" dir="ltr">
                     <a target="_blank" href="http://files2.gersteinlab.org/public-docs/2021/04.25/cbb752-mg-spr21-09d-datamining-unsupervised--rca-cca.pdf">Pack 9d</a></td>
                 <td class="s12"></td>
             </tr>
@@ -698,10 +698,10 @@ layout: page
                 <td class="s12"></td>
                 <td class="s12"></td>
                 <td class="s28" dir="ltr">9e</td>
-                <td class="s33" dir="ltr">Unsupervised Data Mining - tSNE &amp; LDA</td>
-                <td class="s30" dir="ltr">
+                <td class="s32" dir="ltr">Unsupervised Data Mining - tSNE &amp; LDA</td>
+                <td class="s29" dir="ltr">
                     <a target="_blank" href="http://files2.gersteinlab.org/public-docs/2021/04.25/cbb752-mg-spr21-09e-datamining-unsupervised--tsne-lda.pdf">Pack 9e</a></td>
-                <td class="s30" dir="ltr">
+                <td class="s29" dir="ltr">
                     <a target="_blank" href="http://files2.gersteinlab.org/public-docs/2021/04.25/cbb752-mg-spr21-09e-datamining-unsupervised--tsne-lda.pptx">Pack 9e</a></td>
                 <td class="s12"></td>
             </tr>
@@ -712,10 +712,10 @@ layout: page
                 <td class="s12"></td>
                 <td class="s12"></td>
                 <td class="s28" dir="ltr">10a</td>
-                <td class="s33" dir="ltr">Network - Intro</td>
-                <td class="s30" dir="ltr">
+                <td class="s32" dir="ltr">Network - Intro</td>
+                <td class="s29" dir="ltr">
                     <a target="_blank" href="http://files2.gersteinlab.org/public-docs/2021/04.25/cbb752-mg-spr21-10a-network-topology-analysis.pdf">Pack 10a</a></td>
-                <td class="s30" dir="ltr">
+                <td class="s29" dir="ltr">
                     <a target="_blank" href="http://files2.gersteinlab.org/public-docs/2021/04.25/cbb752-mg-spr21-10a-network-topology-analysis.ppt">Pack 10a</a></td>
                 <td class="s12"></td>
             </tr>
@@ -726,10 +726,10 @@ layout: page
                 <td class="s12"></td>
                 <td class="s12"></td>
                 <td class="s28" dir="ltr">10b</td>
-                <td class="s33" dir="ltr">Network - Network Quantities</td>
-                <td class="s30" dir="ltr">
+                <td class="s32" dir="ltr">Network - Network Quantities</td>
+                <td class="s29" dir="ltr">
                     <a target="_blank" href="http://files2.gersteinlab.org/public-docs/2021/04.25/cbb752-mg-spr21-10b-network-topology-analysis.pdf">Pack 10b</a></td>
-                <td class="s30" dir="ltr">
+                <td class="s29" dir="ltr">
                     <a target="_blank" href="http://files2.gersteinlab.org/public-docs/2021/04.25/cbb752-mg-spr21-10b-network-topology-analysis.ppt">Pack 10b</a></td>
                 <td class="s12"></td>
             </tr>
@@ -740,10 +740,10 @@ layout: page
                 <td class="s12"></td>
                 <td class="s12"></td>
                 <td class="s28" dir="ltr">10c</td>
-                <td class="s33" dir="ltr">Network - Network Generation Models</td>
-                <td class="s30" dir="ltr">
+                <td class="s32" dir="ltr">Network - Network Generation Models</td>
+                <td class="s29" dir="ltr">
                     <a target="_blank" href="http://files2.gersteinlab.org/public-docs/2021/04.25/cbb752-mg-spr21-10c-network-topology-analysis.pdf">Pack 10c</a></td>
-                <td class="s30" dir="ltr">
+                <td class="s29" dir="ltr">
                     <a target="_blank" href="http://files2.gersteinlab.org/public-docs/2021/04.25/cbb752-mg-spr21-10c-network-topology-analysis.ppt">Pack 10c</a></td>
                 <td class="s12"></td>
             </tr>
@@ -754,10 +754,10 @@ layout: page
                 <td class="s12"></td>
                 <td class="s12"></td>
                 <td class="s28" dir="ltr">10d</td>
-                <td class="s33" dir="ltr">Network - Central Network Points</td>
-                <td class="s32" dir="ltr">
+                <td class="s32" dir="ltr">Network - Central Network Points</td>
+                <td class="s31" dir="ltr">
                     <a target="_blank" href="http://files2.gersteinlab.org/public-docs/2021/04.25/cbb752-mg-spr21-10d-network-topology-analysis.pdf">Pack 10d</a></td>
-                <td class="s32" dir="ltr">
+                <td class="s31" dir="ltr">
                     <a target="_blank" href="http://files2.gersteinlab.org/public-docs/2021/04.25/cbb752-mg-spr21-10d-network-topology-analysis.ppt">Pack 10d</a></td>
                 <td class="s12"></td>
             </tr>
