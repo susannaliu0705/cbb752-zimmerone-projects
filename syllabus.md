@@ -18,7 +18,7 @@ layout: page
                 <th id="154769403C3" style="width:100px;" class="column-headers-background"></th>
                 <th id="154769403C4" style="width:519px;" class="column-headers-background"></th>
                 <th id="154769403C5" style="width:120px;" class="column-headers-background"></th>
-                <th id="154769403C6" style="width:190px;" class="column-headers-background"></th>
+                <th id="154769403C6" style="width:220px;" class="column-headers-background"></th>
                 <th id="154769403C7" style="width:104px;" class="column-headers-background"></th></tr>
         </thead>
         <tbody>
