@@ -102,7 +102,7 @@ layout: page
                 <td class="s16" dir="ltr">DATA 3 - Proteomics I</td>
                 <td class="s11" dir="ltr"></td>
                 <td class="s7" dir="ltr">
-                    <a target="_blank" href="http://files2.gersteinlab.org/public-docs/2021/02.10/CBB_752_2021_Proteins.pdf">Proteomics 1 [PDF]</a></td>
+                    <a target="_blank" href="http://files2.gersteinlab.org/public-docs/2021/02.10/CBB_752_2021_\s.pdf">Proteomics 1 [PDF]</a></td>
                 <td class="s8"></td>
             </tr>
             <tr style="height: 16px">
@@ -335,7 +335,6 @@ layout: page
                 <td class="s2" dir="ltr">4/19</td>
                 <td class="s25" dir="ltr">CO</td>
                 <td class="s26">Protein Simulation I</td>
-                <td class="s4" dir="ltr"></td>
                 <td class="s8"></td>
                 <td class="s7" dir="ltr">
                     <a target="_blank" href="http://files2.gersteinlab.org/public-docs/2021/04.27/protein_folding_1.ppt">Protein I [PPT]</a></td>
