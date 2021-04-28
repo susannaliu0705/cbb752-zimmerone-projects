@@ -337,6 +337,8 @@ layout: page
                 <td class="s26">Protein Simulation I</td>
                 <td class="s4" dir="ltr"></td>
                 <td class="s8"></td>
+                <td class="s7" dir="ltr">
+                    <a target="_blank" href="http://files2.gersteinlab.org/public-docs/2021/04.27/protein_folding_1.ppt">Protein I [PPT]</a></td>
                 <td class="s8"></td>
             </tr>
             <tr style="height: 16px">
@@ -359,8 +361,9 @@ layout: page
                 <td class="s2" dir="ltr">4/22</td>
                 <td class="s25" dir="ltr">CO</td>
                 <td class="s26">Protein Simulation III</td>
-                <td class="s4" dir="ltr"></td>
                 <td class="s8"></td>
+                <td class="s7" dir="ltr">
+                    <a target="_blank" href="http://files2.gersteinlab.org/public-docs/2021/04.27/core_repacking.pptx">Protein II [PPT]</a></td>
                 <td class="s8"></td>
             </tr>
             <tr style="height: 16px">
@@ -371,8 +374,9 @@ layout: page
                 <td class="s2" dir="ltr">4/26</td>
                 <td class="s25" dir="ltr">CO</td>
                 <td class="s26">Markov Models I</td>
-                <td class="s4" dir="ltr"></td>
                 <td class="s8"></td>
+                <td class="s7" dir="ltr">
+                    <a target="_blank" href="http://files2.gersteinlab.org/public-docs/2021/04.27/idp.pptx">Protein III [PPT]</a></td>
                 <td class="s8"></td>
             </tr>
             <tr style="height: 16px">
