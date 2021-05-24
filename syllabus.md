@@ -649,9 +649,6 @@ layout: page
                             <a target="_blank" href="http://files2.gersteinlab.org/public-docs/2021/04.27/core_repacking.pptx">Protein II</a>
                         </td>
                         <td class="s15"></td>
-                        <td></td>
-                        <td></td>
-                        <td></td>
                     </tr>
                     <tr style="height: 16px">
                         <td class="s2" dir="ltr">
