@@ -109,7 +109,7 @@ layout: page
                         <td class="s10" dir="ltr">
                             Pack 1
                         </td>
-                        <td class="s11" dir="ltr">
+                        <td class="s11" dir="ltr" style="width:300px;">
                             See below for MG Slides
                         </td>
                         <td></td>
@@ -287,7 +287,7 @@ layout: page
                         <td class="s21" dir="ltr">
                             Pack 3, 4
                         </td>
-                        <td class="s11" dir="ltr">
+                        <td class="s11" dir="ltr" style="width:300px;">
                             See below for MG Slides
                         </td>
                         <td class="s15"></td>
@@ -311,7 +311,7 @@ layout: page
                         <td class="s21" dir="ltr">
                             Pack 5, 6a
                         </td>
-                        <td class="s11" dir="ltr">
+                        <td class="s11" dir="ltr" style="width:300px;">
                             See below for MG Slides
                         </td>
                         <td class="s15"></td>
@@ -335,7 +335,7 @@ layout: page
                         <td class="s21" dir="ltr">
                             Pack 6b, 7, 8a
                         </td>
-                        <td class="s11" dir="ltr">
+                        <td class="s11" dir="ltr" style="width:300px;">
                             See below for MG Slides
                         </td>
                         <td class="s15"></td>
@@ -379,7 +379,7 @@ layout: page
                         <td class="s21" dir="ltr">
                             Pack 8b-c, 9a-b
                         </td>
-                        <td class="s11" dir="ltr">
+                        <td class="s11" dir="ltr" style="width:300px;">
                             See below for MG Slides
                         </td>
                         <td class="s15"></td>
@@ -403,7 +403,7 @@ layout: page
                         <td class="s21" dir="ltr">
                             Pack 9c-e, 10a-b
                         </td>
-                        <td class="s11" dir="ltr">
+                        <td class="s11" dir="ltr" style="width:300px;">
                             See below for MG Slides
                         </td>
                         <td class="s15"></td>
