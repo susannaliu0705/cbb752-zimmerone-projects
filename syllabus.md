@@ -5,7 +5,7 @@ layout: page
 
 ## Syllabus
 <html>
-    <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
 <link type="text/css" rel="stylesheet" href="resources/sheet.css">
 <style type="text/css">.ritz .waffle a { color: inherit; }.ritz .waffle .s9{background-color:#4a86e8;text-align:left;color:#000000;font-family:'docs-Helvetica Neue',Arial;font-size:10pt;vertical-align:middle;white-space:nowrap;overflow:hidden;direction:ltr;padding:0px 3px 0px 3px;}.ritz .waffle .s38{background-color:#ffffff;text-align:center;text-decoration:underline;-webkit-text-decoration-skip:none;text-decoration-skip-ink:none;color:#1155cc;font-family:'Arial';font-size:10pt;vertical-align:middle;white-space:normal;overflow:hidden;word-wrap:break-word;direction:ltr;padding:0px 3px 0px 3px;}.ritz .waffle .s29{background-color:#ffffff;text-align:left;color:#000000;font-family:'Arial';font-size:10pt;vertical-align:bottom;white-space:normal;overflow:hidden;direction:ltr;padding:0px 3px 0px 3px;}.ritz .waffle .s31{background-color:#ffffff;text-align:center;font-weight:bold;color:#000000;font-family:'Arial';font-size:10pt;vertical-align:middle;white-space:normal;overflow:hidden;direction:ltr;padding:0px 3px 0px 3px;}.ritz .waffle .s4{background-color:#ffffff;text-align:center;color:#000000;font-family:'Arial';font-size:10pt;vertical-align:middle;white-space:nowrap;overflow:hidden;direction:ltr;padding:0px 3px 0px 3px;}.ritz .waffle .s25{background-color:#efefef;text-align:center;color:#000000;font-family:'docs-Helvetica Neue',Arial;font-size:10pt;vertical-align:middle;white-space:nowrap;overflow:hidden;direction:ltr;padding:0px 3px 0px 3px;}.ritz .waffle .s3{background-color:#ffffff;text-align:left;color:#000000;font-family:'docs-Helvetica Neue',Arial;font-size:10pt;vertical-align:middle;white-space:nowrap;overflow:hidden;direction:ltr;padding:0px 3px 0px 3px;}.ritz .waffle .s35{background-color:#4a86e8;text-align:left;color:#000000;font-family:'docs-docs-Helvetica Neue',Arial;font-size:10pt;vertical-align:middle;white-space:normal;overflow:hidden;direction:ltr;padding:0px 3px 0px 3px;}.ritz .waffle .s24{background-color:#93c47d;text-align:left;color:#000000;font-family:'docs-Helvetica Neue',Arial;font-size:10pt;vertical-align:middle;white-space:normal;overflow:hidden;direction:ltr;padding:0px 3px 0px 3px;}.ritz .waffle .s33{background-color:#ffffff;text-align:center;font-weight:bold;color:#000000;font-family:'Arial';font-size:10pt;vertical-align:middle;white-space:normal;overflow:hidden;word-wrap:break-word;direction:ltr;padding:0px 3px 0px 3px;}.ritz .waffle .s1{background-color:#ffffff;text-align:center;color:#000000;font-family:'docs-Helvetica Neue',Arial;font-size:10pt;vertical-align:middle;white-space:nowrap;overflow:hidden;direction:ltr;padding:0px 3px 0px 3px;}.ritz .waffle .s19{background-color:#e06666;text-align:left;color:#000000;font-family:'docs-Helvetica Neue',Arial;font-size:10pt;vertical-align:middle;white-space:nowrap;overflow:hidden;direction:ltr;padding:0px 3px 0px 3px;}.ritz .waffle .s11{background-color:#ffffff;text-align:center;color:#000000;font-family:'Arial';font-size:10pt;vertical-align:middle;white-space:normal;overflow:hidden;word-wrap:break-word;direction:ltr;padding:0px 3px 0px 3px;}.ritz .waffle .s12{background-color:#ffd966;text-align:center;color:#000000;font-family:'docs-Helvetica Neue',Arial;font-size:10pt;vertical-align:middle;white-space:nowrap;overflow:hidden;direction:ltr;padding:0px 3px 0px 3px;}.ritz .waffle .s34{background-color:#ffffff;text-align:center;text-decoration:underline;-webkit-text-decoration-skip:none;text-decoration-skip-ink:none;color:#1155cc;font-family:'docs-Helvetica Neue',Arial;font-size:10pt;vertical-align:middle;white-space:nowrap;overflow:hidden;direction:ltr;padding:0px 3px 0px 3px;}.ritz .waffle .s13{background-color:#ffd966;text-align:left;color:#000000;font-family:'docs-Helvetica Neue',Arial;font-size:10pt;vertical-align:middle;white-space:nowrap;overflow:hidden;direction:ltr;padding:0px 3px 0px 3px;}.ritz .waffle .s20{background-color:#ffffff;text-align:center;text-decoration:underline;-webkit-text-decoration-skip:none;text-decoration-skip-ink:none;color:#1155cc;font-family:'Arial';font-size:10pt;vertical-align:bottom;white-space:normal;overflow:hidden;direction:ltr;padding:0px 3px 0px 3px;}.ritz .waffle .s8{background-color:#4a86e8;text-align:center;color:#000000;font-family:'docs-Helvetica Neue',Arial;font-size:10pt;vertical-align:middle;white-space:nowrap;overflow:hidden;direction:ltr;padding:0px 3px 0px 3px;}.ritz .waffle .s14{background-color:#ffffff;text-align:center;text-decoration:underline;-webkit-text-decoration-skip:none;text-decoration-skip-ink:none;color:#1155cc;font-family:'Arial';font-size:10pt;vertical-align:middle;white-space:normal;overflow:hidden;direction:ltr;padding:0px 3px 0px 3px;}.ritz .waffle .s10{background-color:#ffffff;text-align:center;font-weight:bold;color:#000000;font-family:'docs-Helvetica Neue',Arial;font-size:10pt;vertical-align:middle;white-space:nowrap;overflow:hidden;direction:ltr;padding:0px 3px 0px 3px;}.ritz .waffle .s5{background-color:#ffffff;text-align:center;color:#000000;font-family:'Arial';font-size:10pt;vertical-align:bottom;white-space:normal;overflow:hidden;direction:ltr;padding:0px 3px 0px 3px;}.ritz .waffle .s6{background-color:#1c4587;text-align:center;font-weight:bold;color:#ffffff;font-family:'docs-Helvetica Neue',Arial;font-size:10pt;vertical-align:middle;white-space:nowrap;overflow:hidden;direction:ltr;padding:0px 3px 0px 3px;}.ritz .waffle .s30{background-color:#1c4587;text-align:center;font-weight:bold;color:#ffffff;font-family:'Arial';font-size:10pt;vertical-align:middle;white-space:normal;overflow:hidden;direction:ltr;padding:0px 3px 0px 3px;}.ritz .waffle .s26{background-color:#efefef;text-align:left;color:#000000;font-family:'docs-Helvetica Neue',Arial;font-size:10pt;vertical-align:middle;white-space:normal;overflow:hidden;direction:ltr;padding:0px 3px 0px 3px;}.ritz .waffle .s37{background-color:#4a86e8;text-align:left;color:#000000;font-family:'Arial';font-size:10pt;vertical-align:middle;white-space:normal;overflow:hidden;direction:ltr;padding:0px 3px 0px 3px;}.ritz .waffle .s23{background-color:#93c47d;text-align:center;color:#000000;font-family:'docs-Helvetica Neue',Arial;font-size:10pt;vertical-align:middle;white-space:nowrap;overflow:hidden;direction:ltr;padding:0px 3px 0px 3px;}.ritz .waffle .s15{background-color:#ffffff;text-align:center;color:#000000;font-family:'Arial';font-size:10pt;vertical-align:middle;white-space:normal;overflow:hidden;direction:ltr;padding:0px 3px 0px 3px;}.ritz .waffle .s27{background-color:#b4a7d6;text-align:center;color:#000000;font-family:'docs-Helvetica Neue',Arial;font-size:10pt;vertical-align:middle;white-space:nowrap;overflow:hidden;direction:ltr;padding:0px 3px 0px 3px;}.ritz .waffle .s32{background-color:#ffffff;text-align:center;font-weight:bold;color:#000000;font-family:'Arial';font-size:10pt;vertical-align:bottom;white-space:normal;overflow:hidden;direction:ltr;padding:0px 3px 0px 3px;}.ritz .waffle .s18{background-color:#e06666;text-align:center;color:#000000;font-family:'docs-Helvetica Neue',Arial;font-size:10pt;vertical-align:middle;white-space:nowrap;overflow:hidden;direction:ltr;padding:0px 3px 0px 3px;}.ritz .waffle .s21{background-color:#4a86e8;text-align:left;color:#000000;font-family:'docs-Helvetica Neue',Arial;font-size:10pt;vertical-align:middle;white-space:normal;overflow:hidden;direction:ltr;padding:0px 3px 0px 3px;}.ritz .waffle .s7{background-color:#ffffff;text-align:center;font-weight:bold;color:#ffffff;font-family:'docs-Helvetica Neue',Arial;font-size:10pt;vertical-align:middle;white-space:nowrap;overflow:hidden;direction:ltr;padding:0px 3px 0px 3px;}.ritz .waffle .s28{background-color:#b4a7d6;text-align:left;color:#000000;font-family:'docs-Helvetica Neue',Arial;font-size:10pt;vertical-align:middle;white-space:normal;overflow:hidden;direction:ltr;padding:0px 3px 0px 3px;}.ritz .waffle .s17{background-color:#f6b26b;text-align:left;color:#000000;font-family:'docs-Helvetica Neue',Arial;font-size:10pt;vertical-align:middle;white-space:nowrap;overflow:hidden;direction:ltr;padding:0px 3px 0px 3px;}.ritz .waffle .s0{background-color:#000000;text-align:center;font-weight:bold;color:#ffffff;font-family:'docs-Helvetica Neue',Arial;font-size:10pt;vertical-align:middle;white-space:nowrap;overflow:hidden;direction:ltr;padding:0px 3px 0px 3px;}.ritz .waffle .s22{background-color:#ffffff;text-align:center;font-weight:bold;color:#000000;font-family:'Arial';font-size:10pt;vertical-align:middle;white-space:nowrap;overflow:hidden;direction:ltr;padding:0px 3px 0px 3px;}.ritz .waffle .s2{background-color:#ffffff;text-align:center;color:#000000;font-family:'docs-Helvetica Neue',Arial;font-size:10pt;vertical-align:middle;white-space:normal;overflow:hidden;word-wrap:break-word;direction:ltr;padding:0px 3px 0px 3px;}.ritz .waffle .s36{background-color:#ffffff;text-align:center;text-decoration:underline;-webkit-text-decoration-skip:none;text-decoration-skip-ink:none;color:#1155cc;font-family:'Arial';font-size:10pt;vertical-align:middle;white-space:nowrap;overflow:hidden;direction:ltr;padding:0px 3px 0px 3px;}.ritz .waffle .s16{background-color:#f6b26b;text-align:center;color:#000000;font-family:'docs-Helvetica Neue',Arial;font-size:10pt;vertical-align:middle;white-space:nowrap;overflow:hidden;direction:ltr;padding:0px 3px 0px 3px;}</style>
 <div class="ritz grid-container" dir="ltr">
@@ -13,20 +13,18 @@ layout: page
         <thead>
             <tr>
                 <th class="row-header freezebar-origin-ltr"></th>
-                <th id="154769403C0" style="width:32px;" class="column-headers-background">A</th>
-                <th id="154769403C1" style="width:37px;" class="column-headers-background">B</th>
-                <th id="154769403C2" style="width:47px;" class="column-headers-background">C</th>
-                <th id="154769403C3" style="width:100px;" class="column-headers-background">D</th>
-                <th id="154769403C4" style="width:519px;" class="column-headers-background">E</th>
-                <th id="154769403C5" style="width:120px;" class="column-headers-background">F</th>
-                <th id="154769403C6" style="width:156px;" class="column-headers-background">G</th>
-                <th id="154769403C7" style="width:104px;" class="column-headers-background">H</th>
-                <th id="154769403C8" style="width:100px;" class="column-headers-background">I</th></tr>
+                <th id="154769403C0" style="width:32px;" class="column-headers-background"></th>
+                <th id="154769403C1" style="width:37px;" class="column-headers-background"></th>
+                <th id="154769403C2" style="width:47px;" class="column-headers-background"></th>
+                <th id="154769403C3" style="width:100px;" class="column-headers-background"></th>
+                <th id="154769403C4" style="width:519px;" class="column-headers-background"></th>
+                <th id="154769403C5" style="width:120px;" class="column-headers-background"></th>
+                <th id="154769403C6" style="width:156px;" class="column-headers-background"></th>
+                <th id="154769403C7" style="width:104px;" class="column-headers-background"></th>
+                <th id="154769403C8" style="width:100px;" class="column-headers-background"></th></tr>
         </thead>
         <tbody>
             <tr style="height: 16px">
-                <th id="154769403R0" style="height: 16px;" class="row-headers-background">
-                    <div class="row-header-wrapper" style="line-height: 16px">1</div></th>
                 <td class="s0" dir="ltr">#</td>
                 <td class="s0" dir="ltr">Day</td>
                 <td class="s0" dir="ltr">Date</td>
@@ -37,8 +35,6 @@ layout: page
                 <td class="s0" dir="ltr">Youtube</td>
                 <td class="s0" dir="ltr">MPEG</td></tr>
             <tr style="height: 16px">
-                <th id="154769403R1" style="height: 16px;" class="row-headers-background">
-                    <div class="row-header-wrapper" style="line-height: 16px">2</div></th>
                 <td class="s1"></td>
                 <td class="s2" dir="ltr">M</td>
                 <td class="s2" dir="ltr">2/1</td>
@@ -50,8 +46,6 @@ layout: page
                 <td class="s5"></td>
             </tr>
             <tr style="height: 16px">
-                <th id="154769403R2" style="height: 16px;" class="row-headers-background">
-                    <div class="row-header-wrapper" style="line-height: 16px">3</div></th>
                 <td></td>
                 <td></td>
                 <td></td>
@@ -62,8 +56,6 @@ layout: page
                 <td class="s5"></td>
             </tr>
             <tr style="height: 16px">
-                <th id="154769403R3" style="height: 16px;" class="row-headers-background">
-                    <div class="row-header-wrapper" style="line-height: 16px">4</div></th>
                 <td class="s1" dir="ltr">1</td>
                 <td class="s2" dir="ltr">M</td>
                 <td class="s2" dir="ltr">2/1</td>
@@ -72,8 +64,6 @@ layout: page
                 <td class="s10" dir="ltr">Pack 1</td>
                 <td class="s11" dir="ltr" colspan="3">See below for MG Slides</td></tr>
             <tr style="height: 16px">
-                <th id="154769403R4" style="height: 16px;" class="row-headers-background">
-                    <div class="row-header-wrapper" style="line-height: 16px">5</div></th>
                 <td class="s1" dir="ltr">2</td>
                 <td class="s2" dir="ltr">W</td>
                 <td class="s2" dir="ltr">2/3</td>
@@ -86,8 +76,6 @@ layout: page
                 <td class="s5"></td>
             </tr>
             <tr style="height: 16px">
-                <th id="154769403R5" style="height: 16px;" class="row-headers-background">
-                    <div class="row-header-wrapper" style="line-height: 16px">6</div></th>
                 <td class="s1" dir="ltr">3</td>
                 <td class="s2" dir="ltr">M</td>
                 <td class="s2" dir="ltr">2/8</td>
@@ -100,8 +88,6 @@ layout: page
                 <td class="s5"></td>
             </tr>
             <tr style="height: 16px">
-                <th id="154769403R6" style="height: 16px;" class="row-headers-background">
-                    <div class="row-header-wrapper" style="line-height: 16px">7</div></th>
                 <td class="s1" dir="ltr">4</td>
                 <td class="s2">W</td>
                 <td class="s2" dir="ltr">2/10</td>
@@ -115,8 +101,6 @@ layout: page
                 <td class="s5"></td>
             </tr>
             <tr style="height: 16px">
-                <th id="154769403R7" style="height: 16px;" class="row-headers-background">
-                    <div class="row-header-wrapper" style="line-height: 16px">8</div></th>
                 <td class="s1" dir="ltr">5</td>
                 <td class="s2">M</td>
                 <td class="s2" dir="ltr">2/15</td>
@@ -130,8 +114,6 @@ layout: page
                 <td class="s5"></td>
             </tr>
             <tr style="height: 16px">
-                <th id="154769403R8" style="height: 16px;" class="row-headers-background">
-                    <div class="row-header-wrapper" style="line-height: 16px">9</div></th>
                 <td class="s1" dir="ltr">6</td>
                 <td class="s2">W</td>
                 <td class="s2" dir="ltr">2/17</td>
@@ -146,8 +128,6 @@ layout: page
                     <a target="_blank" href="http://files.gersteinlab.org/media/videos/BioDataSciMiningModeling_0217.mp4">Database</a></td>
             </tr>
             <tr style="height: 16px">
-                <th id="154769403R9" style="height: 16px;" class="row-headers-background">
-                    <div class="row-header-wrapper" style="line-height: 16px">10</div></th>
                 <td class="s1" dir="ltr">--</td>
                 <td class="s2">M</td>
                 <td class="s2" dir="ltr">2/22</td>
@@ -159,8 +139,6 @@ layout: page
                 <td class="s5"></td>
             </tr>
             <tr style="height: 16px">
-                <th id="154769403R10" style="height: 16px;" class="row-headers-background">
-                    <div class="row-header-wrapper" style="line-height: 16px">11</div></th>
                 <td class="s1" dir="ltr" rowspan="2">7</td>
                 <td class="s2" rowspan="2">W</td>
                 <td class="s2" dir="ltr" rowspan="2">2/24</td>
@@ -175,13 +153,9 @@ layout: page
                     <a target="_blank" href="http://files.gersteinlab.org/media/videos/BioDataSciMiningModeling_Lecture_default_cbb752b21_24feb21_Carl_Zimmer_Personal_Genome.mp4">Carl</a></td>
             </tr>
             <tr style="height: 16px">
-                <th id="154769403R11" style="height: 16px;" class="row-headers-background">
-                    <div class="row-header-wrapper" style="line-height: 16px">12</div></th>
                 <td class="s10" dir="ltr">Pack 2</td>
                 <td class="s11" dir="ltr" colspan="3">See below for MG Slides</td></tr>
             <tr style="height: 16px">
-                <th id="154769403R12" style="height: 16px;" class="row-headers-background">
-                    <div class="row-header-wrapper" style="line-height: 16px">13</div></th>
                 <td class="s1" dir="ltr">8</td>
                 <td class="s2">M</td>
                 <td class="s2" dir="ltr">3/1</td>
@@ -190,8 +164,6 @@ layout: page
                 <td class="s22" dir="ltr">Pack 3, 4</td>
                 <td class="s11" dir="ltr" colspan="3">See below for MG Slides</td></tr>
             <tr style="height: 16px">
-                <th id="154769403R13" style="height: 16px;" class="row-headers-background">
-                    <div class="row-header-wrapper" style="line-height: 16px">14</div></th>
                 <td class="s1" dir="ltr">9</td>
                 <td class="s2">W</td>
                 <td class="s2" dir="ltr">3/3</td>
@@ -200,8 +172,6 @@ layout: page
                 <td class="s22" dir="ltr">Pack 5, 6a</td>
                 <td class="s11" dir="ltr" colspan="3">See below for MG Slides</td></tr>
             <tr style="height: 16px">
-                <th id="154769403R14" style="height: 16px;" class="row-headers-background">
-                    <div class="row-header-wrapper" style="line-height: 16px">15</div></th>
                 <td class="s1" dir="ltr">10</td>
                 <td class="s2">M</td>
                 <td class="s2" dir="ltr">3/8</td>
@@ -210,8 +180,6 @@ layout: page
                 <td class="s22" dir="ltr">Pack 6b, 7, 8a</td>
                 <td class="s11" dir="ltr" colspan="3">See below for MG Slides</td></tr>
             <tr style="height: 16px">
-                <th id="154769403R15" style="height: 16px;" class="row-headers-background">
-                    <div class="row-header-wrapper" style="line-height: 16px">16</div></th>
                 <td class="s1" dir="ltr">11</td>
                 <td class="s2">W</td>
                 <td class="s2" dir="ltr">3/10</td>
@@ -223,8 +191,6 @@ layout: page
                 <td class="s5"></td>
             </tr>
             <tr style="height: 16px">
-                <th id="154769403R16" style="height: 16px;" class="row-headers-background">
-                    <div class="row-header-wrapper" style="line-height: 16px">17</div></th>
                 <td class="s1" dir="ltr">12</td>
                 <td class="s2">M</td>
                 <td class="s2" dir="ltr">3/15</td>
@@ -233,8 +199,6 @@ layout: page
                 <td class="s22" dir="ltr">Pack 8b-c, 9a-b</td>
                 <td class="s11" dir="ltr" colspan="3">See below for MG Slides</td></tr>
             <tr style="height: 16px">
-                <th id="154769403R17" style="height: 16px;" class="row-headers-background">
-                    <div class="row-header-wrapper" style="line-height: 16px">18</div></th>
                 <td class="s1" dir="ltr">13</td>
                 <td class="s2">W</td>
                 <td class="s2" dir="ltr">3/17</td>
@@ -243,8 +207,6 @@ layout: page
                 <td class="s22" dir="ltr">Pack 9c-e, 10a-b</td>
                 <td class="s11" dir="ltr" colspan="3">See below for MG Slides</td></tr>
             <tr style="height: 16px">
-                <th id="154769403R18" style="height: 16px;" class="row-headers-background">
-                    <div class="row-header-wrapper" style="line-height: 16px">19</div></th>
                 <td class="s1" dir="ltr">14</td>
                 <td class="s2">M</td>
                 <td class="s2" dir="ltr">3/22</td>
@@ -259,8 +221,6 @@ layout: page
                     <a target="_blank" href="http://files.gersteinlab.org/media/videos/privacy.mp4">Privacy</a></td>
             </tr>
             <tr style="height: 16px">
-                <th id="154769403R19" style="height: 16px;" class="row-headers-background">
-                    <div class="row-header-wrapper" style="line-height: 16px">20</div></th>
                 <td class="s1" dir="ltr">--</td>
                 <td class="s2" dir="ltr">W</td>
                 <td class="s2" dir="ltr">3/24</td>
@@ -272,8 +232,6 @@ layout: page
                 <td class="s5"></td>
             </tr>
             <tr style="height: 16px">
-                <th id="154769403R20" style="height: 16px;" class="row-headers-background">
-                    <div class="row-header-wrapper" style="line-height: 16px">21</div></th>
                 <td class="s1" dir="ltr" rowspan="2">15</td>
                 <td class="s2" rowspan="2">M</td>
                 <td class="s2" dir="ltr" rowspan="2">3/29</td>
@@ -282,16 +240,12 @@ layout: page
                 <td class="s22" dir="ltr">Pack 10c-d</td>
                 <td class="s11" dir="ltr" colspan="3">See below for MG Slides</td></tr>
             <tr style="height: 16px">
-                <th id="154769403R21" style="height: 16px;" class="row-headers-background">
-                    <div class="row-header-wrapper" style="line-height: 16px">22</div></th>
                 <td class="s7" dir="ltr"></td>
                 <td class="s14" dir="ltr">
                     <a target="_blank" href="http://files2.gersteinlab.org/public-docs/2021/03.29/eQTL.pptx">eQTL [PPT]</a></td>
                 <td class="s15" dir="ltr">NA</td>
                 <td class="s5" dir="ltr">NA</td></tr>
             <tr style="height: 16px">
-                <th id="154769403R22" style="height: 16px;" class="row-headers-background">
-                    <div class="row-header-wrapper" style="line-height: 16px">23</div></th>
                 <td></td>
                 <td class="s7" dir="ltr"></td>
                 <td class="s7" dir="ltr"></td>
@@ -302,8 +256,6 @@ layout: page
                 <td class="s5"></td>
             </tr>
             <tr style="height: 16px">
-                <th id="154769403R23" style="height: 16px;" class="row-headers-background">
-                    <div class="row-header-wrapper" style="line-height: 16px">24</div></th>
                 <td class="s1" dir="ltr">16</td>
                 <td class="s2" dir="ltr">W</td>
                 <td class="s2" dir="ltr">3/31</td>
@@ -318,8 +270,6 @@ layout: page
                     <a target="_blank" href="http://files.gersteinlab.org/media/videos/331.mp4">DL 1</a></td>
             </tr>
             <tr style="height: 16px">
-                <th id="154769403R24" style="height: 16px;" class="row-headers-background">
-                    <div class="row-header-wrapper" style="line-height: 16px">25</div></th>
                 <td class="s1" dir="ltr">17</td>
                 <td class="s2">M</td>
                 <td class="s2" dir="ltr">4/5</td>
@@ -334,8 +284,6 @@ layout: page
                     <a target="_blank" href="http://files.gersteinlab.org/media/videos/BioDataSciMiningModeling_0405.mp4">DL 2</a></td>
             </tr>
             <tr style="height: 16px">
-                <th id="154769403R25" style="height: 16px;" class="row-headers-background">
-                    <div class="row-header-wrapper" style="line-height: 16px">26</div></th>
                 <td class="s1" dir="ltr">18</td>
                 <td class="s2" dir="ltr">W</td>
                 <td class="s2" dir="ltr">4/7</td>
@@ -350,8 +298,6 @@ layout: page
                     <a target="_blank" href="http://files.gersteinlab.org/media/videos/BioDataSciMiningModeling_0407.mp4">DL 3</a></td>
             </tr>
             <tr style="height: 16px">
-                <th id="154769403R26" style="height: 16px;" class="row-headers-background">
-                    <div class="row-header-wrapper" style="line-height: 16px">27</div></th>
                 <td class="s1" dir="ltr" rowspan="2">19</td>
                 <td class="s2" rowspan="2">M</td>
                 <td class="s2" dir="ltr" rowspan="2">4/12</td>
@@ -366,8 +312,6 @@ layout: page
                     <a target="_blank" href="http://files.gersteinlab.org/media/videos/biomedicaltextmining.mp4">Textmining</a></td>
             </tr>
             <tr style="height: 16px">
-                <th id="154769403R27" style="height: 16px;" class="row-headers-background">
-                    <div class="row-header-wrapper" style="line-height: 16px">28</div></th>
                 <td class="s4" dir="ltr"></td>
                 <td class="s14" dir="ltr">
                     <a target="_blank" href="http://files2.gersteinlab.org/public-docs/2021/04.12/ManolisKellis_GuestLecture.pptx">Manolis [PPT]</a></td>
@@ -377,8 +321,6 @@ layout: page
                     <a target="_blank" href="http://files.gersteinlab.org/media/videos/tfandsinglecell.mp4">Manolis</a></td>
             </tr>
             <tr style="height: 16px">
-                <th id="154769403R28" style="height: 16px;" class="row-headers-background">
-                    <div class="row-header-wrapper" style="line-height: 16px">29</div></th>
                 <td class="s1" dir="ltr">20</td>
                 <td class="s2">M</td>
                 <td class="s2" dir="ltr">4/19</td>
@@ -392,8 +334,6 @@ layout: page
                     <a target="_blank" href="http://files.gersteinlab.org/media/videos/BioDataSciMiningModeling_0419.mp4">Protein I</a></td>
             </tr>
             <tr style="height: 16px">
-                <th id="154769403R29" style="height: 16px;" class="row-headers-background">
-                    <div class="row-header-wrapper" style="line-height: 16px">30</div></th>
                 <td class="s1" dir="ltr">21</td>
                 <td class="s2" dir="ltr">W</td>
                 <td class="s2" dir="ltr">4/21</td>
@@ -407,8 +347,6 @@ layout: page
                     <a target="_blank" href="http://files.gersteinlab.org/media/videos/BioDataSciMiningModeling_0419.mp4">Protein II</a></td>
             </tr>
             <tr style="height: 16px">
-                <th id="154769403R30" style="height: 16px;" class="row-headers-background">
-                    <div class="row-header-wrapper" style="line-height: 16px">31</div></th>
                 <td class="s1" dir="ltr">22</td>
                 <td class="s2" dir="ltr">Th</td>
                 <td class="s2" dir="ltr">4/22</td>
@@ -422,8 +360,6 @@ layout: page
                     <a target="_blank" href="http://files.gersteinlab.org/media/videos/BioDataSciMiningModeling_0422.mp4">Protein III</a></td>
             </tr>
             <tr style="height: 16px">
-                <th id="154769403R31" style="height: 16px;" class="row-headers-background">
-                    <div class="row-header-wrapper" style="line-height: 16px">32</div></th>
                 <td class="s1" dir="ltr">23</td>
                 <td class="s2">M</td>
                 <td class="s2" dir="ltr">4/26</td>
@@ -437,8 +373,6 @@ layout: page
                     <a target="_blank" href="http://files.gersteinlab.org/media/videos/BioDataSciMiningModeling_0426.mp4">Protein IV</a></td>
             </tr>
             <tr style="height: 16px">
-                <th id="154769403R32" style="height: 16px;" class="row-headers-background">
-                    <div class="row-header-wrapper" style="line-height: 16px">33</div></th>
                 <td class="s1" dir="ltr">24</td>
                 <td class="s2" dir="ltr">W</td>
                 <td class="s2" dir="ltr">4/28</td>
@@ -450,8 +384,6 @@ layout: page
                 <td class="s20" dir="ltr"></td>
             </tr>
             <tr style="height: 16px">
-                <th id="154769403R33" style="height: 16px;" class="row-headers-background">
-                    <div class="row-header-wrapper" style="line-height: 16px">34</div></th>
                 <td class="s1" dir="ltr">25</td>
                 <td class="s2">M</td>
                 <td class="s2" dir="ltr">5/3</td>
@@ -463,8 +395,6 @@ layout: page
                 <td class="s5"></td>
             </tr>
             <tr style="height: 16px">
-                <th id="154769403R34" style="height: 16px;" class="row-headers-background">
-                    <div class="row-header-wrapper" style="line-height: 16px">35</div></th>
                 <td class="s1" dir="ltr">26</td>
                 <td class="s2" dir="ltr">W</td>
                 <td class="s2" dir="ltr">5/5</td>
@@ -476,8 +406,6 @@ layout: page
                 <td class="s5"></td>
             </tr>
             <tr style="height: 16px">
-                <th id="154769403R35" style="height: 16px;" class="row-headers-background">
-                    <div class="row-header-wrapper" style="line-height: 16px">36</div></th>
                 <td class="s1"></td>
                 <td class="s2" dir="ltr">F</td>
                 <td class="s2" dir="ltr">5/7</td>
@@ -489,8 +417,6 @@ layout: page
                 <td class="s5"></td>
             </tr>
             <tr style="height: 16px">
-                <th id="154769403R36" style="height: 16px;" class="row-headers-background">
-                    <div class="row-header-wrapper" style="line-height: 16px">37</div></th>
                 <td class="s1"></td>
                 <td class="s2" dir="ltr">Th</td>
                 <td class="s2" dir="ltr">5/13</td>
@@ -502,8 +428,6 @@ layout: page
                 <td class="s5"></td>
             </tr>
             <tr style="height: 16px">
-                <th id="154769403R37" style="height: 16px;" class="row-headers-background">
-                    <div class="row-header-wrapper" style="line-height: 16px">38</div></th>
                 <td class="s1"></td>
                 <td class="s2" dir="ltr">W</td>
                 <td class="s2" dir="ltr">5/19</td>
@@ -515,8 +439,6 @@ layout: page
                 <td class="s5"></td>
             </tr>
             <tr style="height: 16px">
-                <th id="154769403R38" style="height: 16px;" class="row-headers-background">
-                    <div class="row-header-wrapper" style="line-height: 16px">39</div></th>
                 <td class="s11"></td>
                 <td class="s11"></td>
                 <td class="s11"></td>
@@ -528,15 +450,11 @@ layout: page
                 <td class="s5"></td>
             </tr>
             <tr style="height: 16px">
-                <th id="154769403R39" style="height: 16px;" class="row-headers-background">
-                    <div class="row-header-wrapper" style="line-height: 16px">40</div></th>
                 <td class="s11"></td>
                 <td class="s11"></td>
                 <td class="s11"></td>
                 <td class="s30" dir="ltr" colspan="6">MG/CO Lecture Slide Pack</td></tr>
             <tr style="height: 16px">
-                <th id="154769403R40" style="height: 16px;" class="row-headers-background">
-                    <div class="row-header-wrapper" style="line-height: 16px">41</div></th>
                 <td class="s11"></td>
                 <td class="s11"></td>
                 <td class="s11"></td>
@@ -547,8 +465,6 @@ layout: page
                 <td class="s32" dir="ltr">Youtube</td>
                 <td class="s33" dir="ltr">MPEG</td></tr>
             <tr style="height: 16px">
-                <th id="154769403R41" style="height: 16px;" class="row-headers-background">
-                    <div class="row-header-wrapper" style="line-height: 16px">42</div></th>
                 <td class="s11"></td>
                 <td class="s11"></td>
                 <td class="s11"></td>
@@ -564,8 +480,6 @@ layout: page
                     <a target="_blank" href="http://files.gersteinlab.org/media/videos/BioDataSciMiningModeling-Lecture_default.cbb752b21-1feb21.01-intro-lect.onweb.wo2faces.mp4">Pack 1</a></td>
             </tr>
             <tr style="height: 16px">
-                <th id="154769403R42" style="height: 16px;" class="row-headers-background">
-                    <div class="row-header-wrapper" style="line-height: 16px">43</div></th>
                 <td class="s11"></td>
                 <td class="s11"></td>
                 <td class="s11"></td>
@@ -580,8 +494,6 @@ layout: page
                 <td class="s5" dir="ltr"></td>
             </tr>
             <tr style="height: 16px">
-                <th id="154769403R43" style="height: 16px;" class="row-headers-background">
-                    <div class="row-header-wrapper" style="line-height: 16px">44</div></th>
                 <td class="s11"></td>
                 <td class="s11"></td>
                 <td class="s11"></td>
@@ -597,8 +509,6 @@ layout: page
                     <a target="_blank" href="http://files.gersteinlab.org/media/videos/BioDataSciMiningModeling-Lecture_default.cbb752b21-1mar21.03-seqcmp.reencode.onweb.mp4">Pack 3</a></td>
             </tr>
             <tr style="height: 16px">
-                <th id="154769403R44" style="height: 16px;" class="row-headers-background">
-                    <div class="row-header-wrapper" style="line-height: 16px">45</div></th>
                 <td class="s11"></td>
                 <td class="s11"></td>
                 <td class="s11"></td>
@@ -614,8 +524,6 @@ layout: page
                     <a target="_blank" href="http://files.gersteinlab.org/media/videos/BioDataSciMiningModeling-Lecture_default.cbb752b21-1mar21.04-multiseq.reencode.onweb.mp4">Pack 4</a></td>
             </tr>
             <tr style="height: 16px">
-                <th id="154769403R45" style="height: 16px;" class="row-headers-background">
-                    <div class="row-header-wrapper" style="line-height: 16px">46</div></th>
                 <td class="s11"></td>
                 <td class="s11"></td>
                 <td class="s11"></td>
@@ -631,8 +539,6 @@ layout: page
                     <a target="_blank" href="http://files.gersteinlab.org/media/videos/BioDataSciMiningModeling-Lecture_default.cbb752b21-3mar21.05-fast-alignment.onweb.mp4">Pack 5</a></td>
             </tr>
             <tr style="height: 16px">
-                <th id="154769403R46" style="height: 16px;" class="row-headers-background">
-                    <div class="row-header-wrapper" style="line-height: 16px">47</div></th>
                 <td class="s11"></td>
                 <td class="s11"></td>
                 <td class="s11"></td>
@@ -648,8 +554,6 @@ layout: page
                     <a target="_blank" href="http://files.gersteinlab.org/media/videos/BioDataSciMiningModeling-Lecture_default.cbb752b21-3mar21.06-SNVs-SVs.onweb.mp4">Pack 6</a></td>
             </tr>
             <tr style="height: 16px">
-                <th id="154769403R47" style="height: 16px;" class="row-headers-background">
-                    <div class="row-header-wrapper" style="line-height: 16px">48</div></th>
                 <td class="s11"></td>
                 <td class="s11"></td>
                 <td class="s11"></td>
@@ -665,8 +569,6 @@ layout: page
                     <a target="_blank" href="http://files.gersteinlab.org/media/videos/BioDataSciMiningModeling-Lecture_default.cbb752b21-8mar21.6b-1000G-PCAWG.onweb.mp4">Pack 6b</a></td>
             </tr>
             <tr style="height: 16px">
-                <th id="154769403R48" style="height: 16px;" class="row-headers-background">
-                    <div class="row-header-wrapper" style="line-height: 16px">49</div></th>
                 <td class="s11"></td>
                 <td class="s11"></td>
                 <td class="s11"></td>
@@ -682,8 +584,6 @@ layout: page
                     <a target="_blank" href="http://files.gersteinlab.org/media/videos/BioDataSciMiningModeling-Lecture_default.cbb752b21-8mar21.07-multi-omics.onweb.mp4">Pack 7</a></td>
             </tr>
             <tr style="height: 16px">
-                <th id="154769403R49" style="height: 16px;" class="row-headers-background">
-                    <div class="row-header-wrapper" style="line-height: 16px">50</div></th>
                 <td class="s11"></td>
                 <td class="s11"></td>
                 <td class="s11"></td>
@@ -699,8 +599,6 @@ layout: page
                     <a target="_blank" href="http://files.gersteinlab.org/media/videos/BioDataSciMiningModeling-Lecture_default.cbb752b21-8mar21.08a-datamining-supervised-decisiontrees.onweb.mp4">Pack 8a</a></td>
             </tr>
             <tr style="height: 16px">
-                <th id="154769403R50" style="height: 16px;" class="row-headers-background">
-                    <div class="row-header-wrapper" style="line-height: 16px">51</div></th>
                 <td class="s11"></td>
                 <td class="s11"></td>
                 <td class="s11"></td>
@@ -716,8 +614,6 @@ layout: page
                     <a target="_blank" href="http://files.gersteinlab.org/media/videos/BioDataSciMiningModeling-Lecture_default.cbb752b21-15mar21.8b.Supervised-mining-ROC-n-crossvalidation.onweb.mp4">Pack 8b</a></td>
             </tr>
             <tr style="height: 16px">
-                <th id="154769403R51" style="height: 16px;" class="row-headers-background">
-                    <div class="row-header-wrapper" style="line-height: 16px">52</div></th>
                 <td class="s11"></td>
                 <td class="s11"></td>
                 <td class="s11"></td>
@@ -733,8 +629,6 @@ layout: page
                     <a target="_blank" href="http://files.gersteinlab.org/media/videos/BioDataSciMiningModeling-Lecture_default.cbb752b21-15mar21.8c-Supervised-mining-SVMs.onweb.mp4">Pack 8c</a></td>
             </tr>
             <tr style="height: 16px">
-                <th id="154769403R52" style="height: 16px;" class="row-headers-background">
-                    <div class="row-header-wrapper" style="line-height: 16px">53</div></th>
                 <td class="s11"></td>
                 <td class="s11"></td>
                 <td class="s11"></td>
@@ -750,8 +644,6 @@ layout: page
                     <a target="_blank" href="http://files.gersteinlab.org/media/videos/BioDataSciMiningModeling-Lecture_default.cbb752b21-15mar21.9a.Unsupervised-mining-clustering.onweb.mp4">Pack 9a</a></td>
             </tr>
             <tr style="height: 16px">
-                <th id="154769403R53" style="height: 16px;" class="row-headers-background">
-                    <div class="row-header-wrapper" style="line-height: 16px">54</div></th>
                 <td class="s11"></td>
                 <td class="s11"></td>
                 <td class="s11"></td>
@@ -767,8 +659,6 @@ layout: page
                     <a target="_blank" href="http://files.gersteinlab.org/media/videos/BioDataSciMiningModeling-Lecture_default.cbb752b21-15mar21.9b-Unsupervised-mining-Communities.onweb.mp4">Pack 9b</a></td>
             </tr>
             <tr style="height: 16px">
-                <th id="154769403R54" style="height: 16px;" class="row-headers-background">
-                    <div class="row-header-wrapper" style="line-height: 16px">55</div></th>
                 <td class="s11"></td>
                 <td class="s11"></td>
                 <td class="s11"></td>
@@ -784,8 +674,6 @@ layout: page
                     <a target="_blank" href="http://files.gersteinlab.org/media/videos/BioDataSciMiningModeling-Lecture_default.cbb752b21-17mar21.09c-SVD.onweb.mp4">Pack 9c</a></td>
             </tr>
             <tr style="height: 16px">
-                <th id="154769403R55" style="height: 16px;" class="row-headers-background">
-                    <div class="row-header-wrapper" style="line-height: 16px">56</div></th>
                 <td class="s11"></td>
                 <td class="s11"></td>
                 <td class="s11"></td>
@@ -801,8 +689,6 @@ layout: page
                     <a target="_blank" href="http://files.gersteinlab.org/media/videos/BioDataSciMiningModeling-Lecture_default.cbb752b21-17mar21.09d-datamining-unsupervised--rca-cca.onweb.mp4">pack 9d</a></td>
             </tr>
             <tr style="height: 16px">
-                <th id="154769403R56" style="height: 16px;" class="row-headers-background">
-                    <div class="row-header-wrapper" style="line-height: 16px">57</div></th>
                 <td class="s11"></td>
                 <td class="s11"></td>
                 <td class="s11"></td>
@@ -818,8 +704,6 @@ layout: page
                     <a target="_blank" href="http://files.gersteinlab.org/media/videos/BioDataSciMiningModeling-Lecture_default.cbb752b21-1mar21.04-multiseq.reencode.onweb.mp4">Pack 9e</a></td>
             </tr>
             <tr style="height: 16px">
-                <th id="154769403R57" style="height: 16px;" class="row-headers-background">
-                    <div class="row-header-wrapper" style="line-height: 16px">58</div></th>
                 <td class="s11"></td>
                 <td class="s11"></td>
                 <td class="s11"></td>
@@ -835,8 +719,6 @@ layout: page
                     <a target="_blank" href="http://files.gersteinlab.org/media/videos/BioDataSciMiningModeling-Lecture_default.cbb752b21-17mar21.10a-network-topology-analysis.onweb.mp4">Pack 10a</a></td>
             </tr>
             <tr style="height: 16px">
-                <th id="154769403R58" style="height: 16px;" class="row-headers-background">
-                    <div class="row-header-wrapper" style="line-height: 16px">59</div></th>
                 <td class="s11"></td>
                 <td class="s11"></td>
                 <td class="s11"></td>
@@ -852,8 +734,6 @@ layout: page
                     <a target="_blank" href="http://files.gersteinlab.org/media/videos/BioDataSciMiningModeling-Lecture_default.cbb752b21-17mar21.10b-network-topology-analysis.onweb.mp4">Pack 10b</a></td>
             </tr>
             <tr style="height: 16px">
-                <th id="154769403R59" style="height: 16px;" class="row-headers-background">
-                    <div class="row-header-wrapper" style="line-height: 16px">60</div></th>
                 <td class="s11"></td>
                 <td class="s11"></td>
                 <td class="s11"></td>
@@ -869,8 +749,6 @@ layout: page
                     <a target="_blank" href="http://files.gersteinlab.org/media/videos/BioDataSciMiningModeling-Lecture_default.cbb752b21-29mar21.10c-network-topology-analysis.onweb.mp4">Pack 10c</a></td>
             </tr>
             <tr style="height: 16px">
-                <th id="154769403R60" style="height: 16px;" class="row-headers-background">
-                    <div class="row-header-wrapper" style="line-height: 16px">61</div></th>
                 <td class="s11"></td>
                 <td class="s11"></td>
                 <td class="s11"></td>
@@ -886,8 +764,6 @@ layout: page
                     <a target="_blank" href="http://files.gersteinlab.org/media/videos/BioDataSciMiningModeling-Lecture_default.cbb752b21-29mar21.10d-network-topology-analysis.onweb.mp4">Pack 10d</a></td>
             </tr>
             <tr style="height: 16px">
-                <th id="154769403R61" style="height: 16px;" class="row-headers-background">
-                    <div class="row-header-wrapper" style="line-height: 16px">62</div></th>
                 <td></td>
                 <td></td>
                 <td></td>
@@ -899,8 +775,6 @@ layout: page
                 <td class="s5"></td>
             </tr>
             <tr style="height: 16px">
-                <th id="154769403R62" style="height: 16px;" class="row-headers-background">
-                    <div class="row-header-wrapper" style="line-height: 16px">63</div></th>
                 <td></td>
                 <td></td>
                 <td></td>
@@ -914,8 +788,6 @@ layout: page
                 <td class="s20" dir="ltr"></td>
             </tr>
             <tr style="height: 16px">
-                <th id="154769403R63" style="height: 16px;" class="row-headers-background">
-                    <div class="row-header-wrapper" style="line-height: 16px">64</div></th>
                 <td></td>
                 <td></td>
                 <td></td>
@@ -929,8 +801,6 @@ layout: page
                 <td class="s20" dir="ltr"></td>
             </tr>
             <tr style="height: 16px">
-                <th id="154769403R64" style="height: 16px;" class="row-headers-background">
-                    <div class="row-header-wrapper" style="line-height: 16px">65</div></th>
                 <td></td>
                 <td></td>
                 <td></td>
