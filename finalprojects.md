@@ -1,9 +1,9 @@
 ---
-title: Quiz Archive
+title: Final Projects 
 layout: page
 ---
 
-## Quiz Archive
+## Final Projects Archive
 
 <ul>
 	<li>
